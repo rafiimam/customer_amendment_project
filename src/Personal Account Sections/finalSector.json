@@ -1,0 +1,3056 @@
+{
+    "111000": [
+        {
+            "value": "111000",
+            "text": " Food Ministry ( Including food divisions/directorates) "
+        }
+    ],
+    "912051": [
+        {
+            "value": "912051",
+            "text": "Foreign Offices/ Embassies/Enterprises/Companies/Liaison Offices/Firms/NGOs ( Excluding Multinational Companies incorporated in Bangladesh)"
+        }
+    ],
+    "12110A": [
+        {
+            "value": "112079",
+            "text": "Ansar and VDP"
+        },
+        {
+            "value": "112085",
+            "text": "Bangladesh Air Force"
+        },
+        {
+            "value": "112083",
+            "text": "Bangladesh Army"
+        },
+        {
+            "value": "112068",
+            "text": "Bangladesh Bureau of Statistics"
+        },
+        {
+            "value": "112081",
+            "text": "Bangladesh Coast Guard"
+        },
+        {
+            "value": "112096",
+            "text": "Bangladesh Diplomatic Mission"
+        },
+        {
+            "value": "112054",
+            "text": "Bangladesh Education Engineering Department"
+        },
+        {
+            "value": "112048",
+            "text": "Bangladesh Forest Department"
+        },
+        {
+            "value": "112088",
+            "text": "Bangladesh Form and Publications Office"
+        },
+        {
+            "value": "112075",
+            "text": "Bangladesh Govt. Press (BG Press)"
+        },
+        {
+            "value": "112074",
+            "text": "Bangladesh Marine Academy"
+        },
+        {
+            "value": "112072",
+            "text": "Bangladesh Missions in Abroad"
+        },
+        {
+            "value": "112071",
+            "text": "Bangladesh National Parliament (Jatio Sangshad Secretariat)"
+        },
+        {
+            "value": "112084",
+            "text": "Bangladesh Navy"
+        },
+        {
+            "value": "112082",
+            "text": "Bangladesh Ordinance Factories"
+        },
+        {
+            "value": "112076",
+            "text": "Bangladesh Police"
+        },
+        {
+            "value": "112086",
+            "text": "Bangladesh Secretariat"
+        },
+        {
+            "value": "112090",
+            "text": "Bangladesh Supreme Court (Including High Court)"
+        },
+        {
+            "value": "112069",
+            "text": "Board of Investment Bangladesh"
+        },
+        {
+            "value": "112078",
+            "text": "Border Guard Bangladesh"
+        },
+        {
+            "value": "112065",
+            "text": "Bureau of Manpower, Employment and Training"
+        },
+        {
+            "value": "112066",
+            "text": "Bureau of Non-formal Education"
+        },
+        {
+            "value": "112062",
+            "text": "Copyright Office"
+        },
+        {
+            "value": "112033",
+            "text": "Department of Agricultural Extension"
+        },
+        {
+            "value": "112053",
+            "text": "Department of Agricultural Marketing"
+        },
+        {
+            "value": "112051",
+            "text": "Department of Architecture"
+        },
+        {
+            "value": "112034",
+            "text": "Department of Co-operative"
+        },
+        {
+            "value": "112050",
+            "text": "Department of Disaster Management"
+        },
+        {
+            "value": "112055",
+            "text": "Department of Environment"
+        },
+        {
+            "value": "112052",
+            "text": "Department of Explosive"
+        },
+        {
+            "value": "112039",
+            "text": "Department of Film and Publications"
+        },
+        {
+            "value": "112043",
+            "text": "Department of Fire Service and Civil Defence"
+        },
+        {
+            "value": "112046",
+            "text": "Department of Fisheries"
+        },
+        {
+            "value": "112041",
+            "text": "Department of Immigration and Passport"
+        },
+        {
+            "value": "112047",
+            "text": "Department of Livestock Services"
+        },
+        {
+            "value": "112030",
+            "text": "Department of Local Government & Engineering (LGED)"
+        },
+        {
+            "value": "112038",
+            "text": "Department of Mass Communication"
+        },
+        {
+            "value": "112044",
+            "text": "Department of Narcotics Control"
+        },
+        {
+            "value": "112045",
+            "text": "Department of Patents, Designs and Trademarks"
+        },
+        {
+            "value": "112042",
+            "text": "Department of Prison"
+        },
+        {
+            "value": "112095",
+            "text": "Department of Railroad Inspector"
+        },
+        {
+            "value": "112049",
+            "text": "Department of Shipping"
+        },
+        {
+            "value": "112056",
+            "text": "Department of Textile"
+        },
+        {
+            "value": "112032",
+            "text": "Department of Women Affairs"
+        },
+        {
+            "value": "112036",
+            "text": "Department of Youth Development"
+        },
+        {
+            "value": "112029",
+            "text": "Directorate General of Defence Purchase"
+        },
+        {
+            "value": "112027",
+            "text": "Directorate General of Drug Administration"
+        },
+        {
+            "value": "112028",
+            "text": "Directorate General of Family Planning"
+        },
+        {
+            "value": "112026",
+            "text": "Directorate General of Forces Intelligence (DGFI)"
+        },
+        {
+            "value": "112014",
+            "text": "Directorate of  Sports"
+        },
+        {
+            "value": "112015",
+            "text": "Directorate of Archaeology"
+        },
+        {
+            "value": "112021",
+            "text": "Directorate of Archives and Libraries"
+        },
+        {
+            "value": "112092",
+            "text": "Directorate of Armed Forces Medical Services"
+        },
+        {
+            "value": "112016",
+            "text": "Directorate of Bangladesh Family Planning"
+        },
+        {
+            "value": "112020",
+            "text": "Directorate of Bangladesh Survey"
+        },
+        {
+            "value": "112093",
+            "text": "Directorate of Government Transport"
+        },
+        {
+            "value": "112022",
+            "text": "Directorate of Govt. Accommodation"
+        },
+        {
+            "value": "112001",
+            "text": "Directorate of Health"
+        },
+        {
+            "value": "112024",
+            "text": "Directorate of Inspection and Audit of Ministry of Education"
+        },
+        {
+            "value": "112094",
+            "text": "Directorate of Insurance"
+        },
+        {
+            "value": "112005",
+            "text": "Directorate of Jute"
+        },
+        {
+            "value": "112007",
+            "text": "Directorate of Labour"
+        },
+        {
+            "value": "112008",
+            "text": "Directorate of Land Record and Survey"
+        },
+        {
+            "value": "112013",
+            "text": "Directorate of Livestock"
+        },
+        {
+            "value": "112019",
+            "text": "Directorate of Meteorology"
+        },
+        {
+            "value": "112006",
+            "text": "Directorate of National Consumer Rights Protection"
+        },
+        {
+            "value": "112004",
+            "text": "Directorate of National Savings"
+        },
+        {
+            "value": "112018",
+            "text": "Directorate of Nursing Services"
+        },
+        {
+            "value": "112003",
+            "text": "Directorate of Primary Education"
+        },
+        {
+            "value": "112017",
+            "text": "Directorate of Printing, Stationery, Forms and Publication"
+        },
+        {
+            "value": "112010",
+            "text": "Directorate of Public Health and Engineering"
+        },
+        {
+            "value": "112002",
+            "text": "Directorate of Relief and Rehabilitation"
+        },
+        {
+            "value": "112011",
+            "text": "Directorate of Secondary and Higher Secondary Education"
+        },
+        {
+            "value": "112012",
+            "text": "Directorate of Social Welfare"
+        },
+        {
+            "value": "112025",
+            "text": "Directorate of Technical Education"
+        },
+        {
+            "value": "112064",
+            "text": "Disaster Management Bureau"
+        },
+        {
+            "value": "112091",
+            "text": "District Judge Court (Including Other Courts in District)"
+        },
+        {
+            "value": "112073",
+            "text": "Geological Survey of Bangladesh"
+        },
+        {
+            "value": "112063",
+            "text": "Hajj Office"
+        },
+        {
+            "value": "112040",
+            "text": "Health Engineering Department"
+        },
+        {
+            "value": "112067",
+            "text": "NGO Affairs Bureau"
+        },
+        {
+            "value": "112070",
+            "text": "National Board of  Revenue (NBR), Bangladesh"
+        },
+        {
+            "value": "112097",
+            "text": "National Broadcasting Authority"
+        },
+        {
+            "value": "112089",
+            "text": "Office of the Assistant Commissioner of Land"
+        },
+        {
+            "value": "112060",
+            "text": "Office of the Chief Inspector of Boilers"
+        },
+        {
+            "value": "112087",
+            "text": "Office of the Commissioner of Taxes"
+        },
+        {
+            "value": "112058",
+            "text": "Office of the District Commissioner"
+        },
+        {
+            "value": "112059",
+            "text": "Office of the Divisional Commissioner"
+        },
+        {
+            "value": "112057",
+            "text": "Office of the Thana Executive Officer"
+        },
+        {
+            "value": "112099",
+            "text": "Other Ministries, Directorates and Departments"
+        },
+        {
+            "value": "112037",
+            "text": "Press Information Department"
+        },
+        {
+            "value": "112061",
+            "text": "Public Private Partnership Office"
+        },
+        {
+            "value": "112031",
+            "text": "Public Works Department"
+        },
+        {
+            "value": "112080",
+            "text": "Rapid Action Battalion (RAB)"
+        },
+        {
+            "value": "112009",
+            "text": "Registration Directorate"
+        },
+        {
+            "value": "112035",
+            "text": "Roads and Highway Department"
+        },
+        {
+            "value": "112077",
+            "text": "Special Security Force"
+        },
+        {
+            "value": "112023",
+            "text": "Urban Development Directorate"
+        }
+    ],
+    "12110B": [
+        {
+            "value": "112100",
+            "text": "Directorate of Bangladesh Post Office (Postal services)"
+        }
+    ],
+    "12110C": [
+        {
+            "value": "112200",
+            "text": "Bangladesh Post Office (Savings Bank Scheme)"
+        }
+    ],
+    "12120A": [
+        {
+            "value": "113102",
+            "text": "Bangladesh Madrasha Education Board"
+        },
+        {
+            "value": "113103",
+            "text": "Bangladesh Technical Education Board"
+        },
+        {
+            "value": "113199",
+            "text": "Board of Intermediate and Secondary Educations"
+        },
+        {
+            "value": "113101",
+            "text": "National Curriculum and Text Book Board"
+        }
+    ],
+    "12120B": [
+        {
+            "value": "113209",
+            "text": "Bangabandhu Sheikh Mujib Medical University"
+        },
+        {
+            "value": "113222",
+            "text": "Bangabandhu Sheikh Mujibur Rahman Agricultural University"
+        },
+        {
+            "value": "113226",
+            "text": "Bangabandhu Sheikh Mujibur Rahman Science & Technology University"
+        },
+        {
+            "value": "113216",
+            "text": "Bangladesh Agricultural University, Mymensingh"
+        },
+        {
+            "value": "113205",
+            "text": "Bangladesh Open University (BOU)"
+        },
+        {
+            "value": "113227",
+            "text": "Bangladesh Textile University"
+        },
+        {
+            "value": "113208",
+            "text": "Bangladesh University of Engineering & Technology (BUET)"
+        },
+        {
+            "value": "113228",
+            "text": "Bangladesh University of Professional"
+        },
+        {
+            "value": "113229",
+            "text": "Barisal University"
+        },
+        {
+            "value": "113230",
+            "text": "Begum Rokeya University, Rangpur"
+        },
+        {
+            "value": "113202",
+            "text": "Cadet Colleges"
+        },
+        {
+            "value": "113212",
+            "text": "Chittagong University"
+        },
+        {
+            "value": "113219",
+            "text": "Chittagong University of Engineering & Technology (CUET)"
+        },
+        {
+            "value": "113231",
+            "text": "Chittagong Veterinary and Animal Sciences University"
+        },
+        {
+            "value": "113232",
+            "text": "Comilla University"
+        },
+        {
+            "value": "113210",
+            "text": "Dhaka University"
+        },
+        {
+            "value": "113218",
+            "text": "Dhaka University of Engineering & Technology (DUET)"
+        },
+        {
+            "value": "113201",
+            "text": "Government Schools,  Colleges, University Colleges & Madrashas"
+        },
+        {
+            "value": "113224",
+            "text": "Hajee Mohammad Danesh Science & Technology University"
+        },
+        {
+            "value": "113207",
+            "text": "Institutes of Technology (Including Polytechnic Institutes)"
+        },
+        {
+            "value": "113217",
+            "text": "Islamic University, Kushtia"
+        },
+        {
+            "value": "113233",
+            "text": "Jagannath University"
+        },
+        {
+            "value": "113213",
+            "text": "Jahangirnagar University"
+        },
+        {
+            "value": "113234",
+            "text": "Jatiya Kabi Kazi Nazrul Islam University, Mymensingh"
+        },
+        {
+            "value": "113235",
+            "text": "Jessore Science & Technology University"
+        },
+        {
+            "value": "113214",
+            "text": "Khulna University"
+        },
+        {
+            "value": "113220",
+            "text": "Khulna University of Engineering & Technology (KUET)"
+        },
+        {
+            "value": "113236",
+            "text": "Mawlana Bhashani Science & Technology University, Tangail"
+        },
+        {
+            "value": "113206",
+            "text": "Medical/Dental Colleges"
+        },
+        {
+            "value": "113204",
+            "text": "National University (NU), Gazipur"
+        },
+        {
+            "value": "113299",
+            "text": "Other Public Educational Institutions"
+        },
+        {
+            "value": "113237",
+            "text": "Pabna University of Science and Technology"
+        },
+        {
+            "value": "113225",
+            "text": "Patuakhali Agriculture University"
+        },
+        {
+            "value": "113238",
+            "text": "Patuakhali Science and Technology University"
+        },
+        {
+            "value": "113211",
+            "text": "Rajshahi University"
+        },
+        {
+            "value": "113221",
+            "text": "Rajshahi University of Engineering & Technology (RUET)"
+        },
+        {
+            "value": "113215",
+            "text": "Shahjalal University of Science and Technology"
+        },
+        {
+            "value": "113223",
+            "text": "Sher-e-Bangla Agricultural University"
+        },
+        {
+            "value": "113239",
+            "text": "Sylhet Agricultural University"
+        }
+    ],
+    "12120C": [
+        {
+            "value": "113340",
+            "text": "Accident Research Institute (ARI), Bangladesh"
+        },
+        {
+            "value": "113303",
+            "text": "Bangla Academy"
+        },
+        {
+            "value": "113301",
+            "text": "Bangladesh Academy for Rural Development (BARD), Comilla"
+        },
+        {
+            "value": "113306",
+            "text": "Bangladesh Agricultural Research Institute (BARI)"
+        },
+        {
+            "value": "113385",
+            "text": "Bangladesh Agriculture Research Council (BARC)"
+        },
+        {
+            "value": "113332",
+            "text": "Bangladesh Civil Service Administration Academy"
+        },
+        {
+            "value": "113327",
+            "text": "Bangladesh Co-operative Academy"
+        },
+        {
+            "value": "113346",
+            "text": "Bangladesh College of Physicians & Surgeons"
+        },
+        {
+            "value": "113387",
+            "text": "Bangladesh Computer Council (BCC)"
+        },
+        {
+            "value": "113307",
+            "text": "Bangladesh Council of Scientific & Industrial Research (BCSIR)"
+        },
+        {
+            "value": "113338",
+            "text": "Bangladesh Fisheries Research Institute (BFRI)"
+        },
+        {
+            "value": "113362",
+            "text": "Bangladesh Foreign Trade Institute (BFTI)"
+        },
+        {
+            "value": "113342",
+            "text": "Bangladesh Forest Research Institute"
+        },
+        {
+            "value": "113345",
+            "text": "Bangladesh Health Professionals Institute (BHPI)"
+        },
+        {
+            "value": "113373",
+            "text": "Bangladesh Industrial Technical Assistance Centre (BITAC), Tejgaon, Dhaka "
+        },
+        {
+            "value": "113344",
+            "text": "Bangladesh Institute of Bank Management (BIBM)"
+        },
+        {
+            "value": "113347",
+            "text": "Bangladesh Institute of Development Studies (BIDS)"
+        },
+        {
+            "value": "113348",
+            "text": "Bangladesh Institute of International and Strategic Studies (BIISS)"
+        },
+        {
+            "value": "113349",
+            "text": "Bangladesh Institute of Management (BIM)"
+        },
+        {
+            "value": "113335",
+            "text": "Bangladesh Institute of Nuclear Agriculture, Mymensingh"
+        },
+        {
+            "value": "113371",
+            "text": "Bangladesh Institute of Textile Technology (BITT), Tangail"
+        },
+        {
+            "value": "113322",
+            "text": "Bangladesh Insurance Academy"
+        },
+        {
+            "value": "113333",
+            "text": "Bangladesh Jute Research Institute (BJRI)"
+        },
+        {
+            "value": "113370",
+            "text": "Bangladesh Krira Shikkha Protisthan (BKSP)"
+        },
+        {
+            "value": "113337",
+            "text": "Bangladesh Livestock Research Institute"
+        },
+        {
+            "value": "113378",
+            "text": "Bangladesh Medical & Dental Council (BMDC)"
+        },
+        {
+            "value": "113380",
+            "text": "Bangladesh Medical Research Council"
+        },
+        {
+            "value": "113311",
+            "text": "Bangladesh National Museum"
+        },
+        {
+            "value": "113383",
+            "text": "Bangladesh National Social Welfare Council"
+        },
+        {
+            "value": "113381",
+            "text": "Bangladesh Nursing Council"
+        },
+        {
+            "value": "113368",
+            "text": "Bangladesh Petroleum  Institute"
+        },
+        {
+            "value": "113308",
+            "text": "Bangladesh Rice Research Institute (BRRI)"
+        },
+        {
+            "value": "113358",
+            "text": "Bangladesh Rural Development Training Institute (BRDTI)"
+        },
+        {
+            "value": "113365",
+            "text": "Bangladesh Seri-cultural Research and Training Institute"
+        },
+        {
+            "value": "113304",
+            "text": "Bangladesh Shilpakala Academy"
+        },
+        {
+            "value": "113325",
+            "text": "Bangladesh Shishu Academy"
+        },
+        {
+            "value": "113341",
+            "text": "Bangladesh Silk Research and Training Institute (BSRTI), Rajshahi"
+        },
+        {
+            "value": "113390",
+            "text": "Bangladesh Space Research and Remote Sensing Organisation (SPARRSO) "
+        },
+        {
+            "value": "113309",
+            "text": "Bangladesh Standards & Testing Institution (BSTI)"
+        },
+        {
+            "value": "113336",
+            "text": "Bangladesh Sugarcane Research  Institute (BSRI)"
+        },
+        {
+            "value": "113339",
+            "text": "Bangladesh Tea Research Institute (BTRI)"
+        },
+        {
+            "value": "113372",
+            "text": "Bangladesh Tourism Board"
+        },
+        {
+            "value": "113312",
+            "text": "Bangladesh Veterinary Council"
+        },
+        {
+            "value": "113364",
+            "text": "Central Development Resources Development Institute"
+        },
+        {
+            "value": "113310",
+            "text": "Central Public Library"
+        },
+        {
+            "value": "113384",
+            "text": "Council of Bangladesh Institute of Technology"
+        },
+        {
+            "value": "113376",
+            "text": "Cox's Bazar Cultural Centre"
+        },
+        {
+            "value": "113313",
+            "text": "Foreign Service Academy"
+        },
+        {
+            "value": "113334",
+            "text": "Housing &  Building Research Institute"
+        },
+        {
+            "value": "113350",
+            "text": "Institute of Chartered Accountants of Bangladesh (ICAB)"
+        },
+        {
+            "value": "113351",
+            "text": "Institute of Cost & Management Accountants of Bangladesh"
+        },
+        {
+            "value": "113318",
+            "text": "Institute of Public Health and Hospital"
+        },
+        {
+            "value": "113315",
+            "text": "Institute of Public Health and Nutrition"
+        },
+        {
+            "value": "113366",
+            "text": "Institute of Water Modeling"
+        },
+        {
+            "value": "113357",
+            "text": "International Mother Language Institute"
+        },
+        {
+            "value": "113305",
+            "text": "Islamic Foundation, Bangladesh"
+        },
+        {
+            "value": "113382",
+            "text": "Jatiya Mohila Sangstha"
+        },
+        {
+            "value": "113360",
+            "text": "Judicial Administration Training Institute"
+        },
+        {
+            "value": "113328",
+            "text": "Khudro Nri Gosthi Cultural Academy, Netrokona"
+        },
+        {
+            "value": "113352",
+            "text": "Khudro Nri Gosthi Cultural Institute, Rangamati & Bandarban"
+        },
+        {
+            "value": "113377",
+            "text": "Land Administration Training Centre (LATC)"
+        },
+        {
+            "value": "113359",
+            "text": "Madrasha Teachers Training Institute (MTTI)"
+        },
+        {
+            "value": "113323",
+            "text": "Marine Fisheries Academy"
+        },
+        {
+            "value": "113331",
+            "text": "National Academy for Computer Training and Research (NACTAR)"
+        },
+        {
+            "value": "113330",
+            "text": "National Academy for Educational Management (NAEM)"
+        },
+        {
+            "value": "113324",
+            "text": "National Academy for Planning & Development"
+        },
+        {
+            "value": "113326",
+            "text": "National Academy for Primary Education (NAPE)"
+        },
+        {
+            "value": "113374",
+            "text": "National Book Centre, Bangladesh"
+        },
+        {
+            "value": "113388",
+            "text": "National Freedom Fighter Council"
+        },
+        {
+            "value": "113369",
+            "text": "National Institute of Biotechnology"
+        },
+        {
+            "value": "113316",
+            "text": "National Institute of Cardiovascular Diseases"
+        },
+        {
+            "value": "113319",
+            "text": "National Institute of Disease of Chest & Hospital (NIDCH)"
+        },
+        {
+            "value": "113353",
+            "text": "National Institute of Local Government"
+        },
+        {
+            "value": "113355",
+            "text": "National Institute of Mass Communication (NIMCO)"
+        },
+        {
+            "value": "113320",
+            "text": "National Institute of Ophthalmology"
+        },
+        {
+            "value": "113314",
+            "text": "National Institute of Population, Research & Training (NIPORT)"
+        },
+        {
+            "value": "113317",
+            "text": "National Institute of Preventive & Social Medicine (NIPSOM)"
+        },
+        {
+            "value": "113321",
+            "text": "National Institute of Traumatology & Orthopedic Rehabilitation (NITOR)"
+        },
+        {
+            "value": "113361",
+            "text": "National Legal Aid Institute"
+        },
+        {
+            "value": "113367",
+            "text": "National Maritime Institute"
+        },
+        {
+            "value": "113389",
+            "text": "National Museum of Science & Technology"
+        },
+        {
+            "value": "113386",
+            "text": "National Sports Council (NSC)"
+        },
+        {
+            "value": "113329",
+            "text": "National Training & Research Academy for Multilingual, Shorthand, Bogra"
+        },
+        {
+            "value": "113356",
+            "text": "Nazrul Institute"
+        },
+        {
+            "value": "113399",
+            "text": "Other Councils/Institutes"
+        },
+        {
+            "value": "113379",
+            "text": "Pharmacy Council of Bangladesh"
+        },
+        {
+            "value": "113354",
+            "text": "Press Institute of Bangladesh"
+        },
+        {
+            "value": "113375",
+            "text": "Public Administration Training Centre, Savar & RPATC, Eskaton"
+        },
+        {
+            "value": "113343",
+            "text": "River Research Institute"
+        },
+        {
+            "value": "113302",
+            "text": "Rural Development Academy (RDA), Bogra"
+        },
+        {
+            "value": "113363",
+            "text": "Soil Resources Development Institute"
+        }
+    ],
+    "12120D": [
+        {
+            "value": "113446",
+            "text": "Agriculture Information Service"
+        },
+        {
+            "value": "113499",
+            "text": "All Other Boards/Centres"
+        },
+        {
+            "value": "113435",
+            "text": "Anti Corruption Commission"
+        },
+        {
+            "value": "113422",
+            "text": "Bandarban Hill District Council"
+        },
+        {
+            "value": "113445",
+            "text": "Bangladesh  Hi-Tech Park Authority"
+        },
+        {
+            "value": "113458",
+            "text": "Bangladesh Accreditation Board"
+        },
+        {
+            "value": "113402",
+            "text": "Bangladesh Agricultural Development Corporation (BADC)"
+        },
+        {
+            "value": "113451",
+            "text": "Bangladesh Applied Nutrition and Human Resources Development Board"
+        },
+        {
+            "value": "113401",
+            "text": "Bangladesh Atomic Energy Commission"
+        },
+        {
+            "value": "113413",
+            "text": "Bangladesh Bridge Authority"
+        },
+        {
+            "value": "113431",
+            "text": "Bangladesh Energy Regulatory Commission (BERC)"
+        },
+        {
+            "value": "113438",
+            "text": "Bangladesh Export Processing Zone Authority (BEPZA)"
+        },
+        {
+            "value": "113470",
+            "text": "Bangladesh Folk Arts & Craft Foundation, Sonargaon"
+        },
+        {
+            "value": "113482",
+            "text": "Bangladesh Girls' Guide Association"
+        },
+        {
+            "value": "113409",
+            "text": "Bangladesh Handloom Board"
+        },
+        {
+            "value": "113425",
+            "text": "Bangladesh Haor and Wetland Development Board"
+        },
+        {
+            "value": "113448",
+            "text": "Bangladesh Homoeopathic Board"
+        },
+        {
+            "value": "113433",
+            "text": "Bangladesh Judicial Service Commission"
+        },
+        {
+            "value": "113473",
+            "text": "Bangladesh NGO Foundation"
+        },
+        {
+            "value": "113430",
+            "text": "Bangladesh National Commission of UNESCO"
+        },
+        {
+            "value": "113487",
+            "text": "Bangladesh National Herbarium"
+        },
+        {
+            "value": "113461",
+            "text": "Bangladesh National Medical Council"
+        },
+        {
+            "value": "113480",
+            "text": "Bangladesh National Science & Technical Documentation Centre (BANSDOC)"
+        },
+        {
+            "value": "113423",
+            "text": "Bangladesh Overseas Employment Service Limited (BOESEL)"
+        },
+        {
+            "value": "113462",
+            "text": "Bangladesh Press Council"
+        },
+        {
+            "value": "113437",
+            "text": "Bangladesh Public Service Commission"
+        },
+        {
+            "value": "113442",
+            "text": "Bangladesh Road Transport Authority (BRTA)"
+        },
+        {
+            "value": "113412",
+            "text": "Bangladesh Rural Development Board (BRDB)"
+        },
+        {
+            "value": "113483",
+            "text": "Bangladesh Scouts"
+        },
+        {
+            "value": "113410",
+            "text": "Bangladesh Sericulture Board"
+        },
+        {
+            "value": "113454",
+            "text": "Bangladesh Sports Control Board"
+        },
+        {
+            "value": "113428",
+            "text": "Bangladesh Tariff Commission"
+        },
+        {
+            "value": "113456",
+            "text": "Bangladesh Tea Plantation Employees' Provident Fund Trustee Board"
+        },
+        {
+            "value": "113436",
+            "text": "Bangladesh Telecommunication Regulatory Commission (BTRC)"
+        },
+        {
+            "value": "113449",
+            "text": "Bangladesh Tobacco Development Board"
+        },
+        {
+            "value": "113416",
+            "text": "Barind Multipurpose Development Authority (BMDA), Rajshahi"
+        },
+        {
+            "value": "113466",
+            "text": "Benevolent Funds"
+        },
+        {
+            "value": "113453",
+            "text": "Board of Unani and Ayurvedic Council"
+        },
+        {
+            "value": "113475",
+            "text": "Buddhist Welfare Trust"
+        },
+        {
+            "value": "113406",
+            "text": "Chittagong Development Authority (CDA)"
+        },
+        {
+            "value": "113403",
+            "text": "Chittagong Hill Tracts Development Board"
+        },
+        {
+            "value": "113419",
+            "text": "Chittagong Hill Tracts Regional Council"
+        },
+        {
+            "value": "113476",
+            "text": "Christian Welfare Trust"
+        },
+        {
+            "value": "113486",
+            "text": "Comprehensive Disaster Management Program"
+        },
+        {
+            "value": "113457",
+            "text": "Cotton Development Board"
+        },
+        {
+            "value": "113484",
+            "text": "Cyclone Preparedness Programme (CPP)"
+        },
+        {
+            "value": "113465",
+            "text": "Development Funds"
+        },
+        {
+            "value": "113468",
+            "text": "Development Works Program Fund"
+        },
+        {
+            "value": "113418",
+            "text": "Dhaka Transport Co-ordination Authority (DTCA)"
+        },
+        {
+            "value": "113434",
+            "text": "Election Commission Bangladesh"
+        },
+        {
+            "value": "113426",
+            "text": "Executive Cell, BEPZA"
+        },
+        {
+            "value": "113411",
+            "text": "Export Promotion Bureau"
+        },
+        {
+            "value": "113474",
+            "text": "Hindu Welfare Trust"
+        },
+        {
+            "value": "113469",
+            "text": "Horticulture Export Development Foundation (Hortex Foundation)  "
+        },
+        {
+            "value": "113441",
+            "text": "Insurance Development and Regularity Authority (IDRA)"
+        },
+        {
+            "value": "113481",
+            "text": "Investment Advisory Centre of Bangladesh"
+        },
+        {
+            "value": "113429",
+            "text": "Joint River Commission"
+        },
+        {
+            "value": "113450",
+            "text": "Jute Industries Development Board"
+        },
+        {
+            "value": "113421",
+            "text": "Khagrachori Hill District Council"
+        },
+        {
+            "value": "113407",
+            "text": "Khulna Development Authority (KDA)"
+        },
+        {
+            "value": "113460",
+            "text": "Land Appeal Board"
+        },
+        {
+            "value": "113459",
+            "text": "Land Reform Board"
+        },
+        {
+            "value": "113439",
+            "text": "Micro Credit Regulatory Authority (MRA)"
+        },
+        {
+            "value": "113455",
+            "text": "National Board of Abandoned Properties"
+        },
+        {
+            "value": "113472",
+            "text": "National Foundation for Development of the Disabled Persons"
+        },
+        {
+            "value": "113471",
+            "text": "National Foundation for Research on Human Resources"
+        },
+        {
+            "value": "113424",
+            "text": "National Housing Authority"
+        },
+        {
+            "value": "113432",
+            "text": "National Human Rights Commission"
+        },
+        {
+            "value": "113440",
+            "text": "Non-Government Teachers Registration and Certification Authority ( NTRCA) "
+        },
+        {
+            "value": "113479",
+            "text": "Office of the Bangladesh Waqf Administrator"
+        },
+        {
+            "value": "113447",
+            "text": "Office of the Comptroller and Auditor General of Bangladesh"
+        },
+        {
+            "value": "113404",
+            "text": "Prime Minister's Relief Fund"
+        },
+        {
+            "value": "113414",
+            "text": "Privatisation Commission"
+        },
+        {
+            "value": "113467",
+            "text": "Public Educational Funds"
+        },
+        {
+            "value": "113463",
+            "text": "Public Trust Funds"
+        },
+        {
+            "value": "113405",
+            "text": "Rajdhani Unnayan Kartripakkha (RAJUK)"
+        },
+        {
+            "value": "113408",
+            "text": "Rajshahi Development Authority (RDA)"
+        },
+        {
+            "value": "113420",
+            "text": "Rangamati Hill District Council"
+        },
+        {
+            "value": "113485",
+            "text": "Registrar of Joint Stock Companies and Firms (RJSC)"
+        },
+        {
+            "value": "113444",
+            "text": "Seed Certification Agency"
+        },
+        {
+            "value": "113478",
+            "text": "Sheikh Zayad Bin Sultan Al Nahian Trust (Bangladesh)"
+        },
+        {
+            "value": "113417",
+            "text": "The Security Printing Corporation (Bangladesh) Ltd."
+        },
+        {
+            "value": "113427",
+            "text": "University Grants Commission of Bangladesh"
+        },
+        {
+            "value": "113477",
+            "text": "Urban Development Trust"
+        },
+        {
+            "value": "113452",
+            "text": "Vested Property Management Board"
+        },
+        {
+            "value": "113415",
+            "text": "Water Resources Planning Organisation (WARPO)"
+        },
+        {
+            "value": "113464",
+            "text": "Welfare Funds"
+        }
+    ],
+    "12120E": [
+        {
+            "value": "113503",
+            "text": "Bangladesh Betar"
+        },
+        {
+            "value": "113502",
+            "text": "Bangladesh Sangbad Sangstha (BSS)"
+        },
+        {
+            "value": "113501",
+            "text": "Bangladesh Television/BTV World/ Sangshad Bangladesh TV"
+        }
+    ],
+    "012210": [
+        {
+            "value": "124500",
+            "text": "Gram Parishad"
+        },
+        {
+            "value": "124200",
+            "text": "Municipal/City Corporation"
+        },
+        {
+            "value": "124900",
+            "text": "Other Local Authorities."
+        },
+        {
+            "value": "124300",
+            "text": "Thana/Upazila Parishad"
+        },
+        {
+            "value": "124400",
+            "text": "Union Parishad"
+        },
+        {
+            "value": "124100",
+            "text": "Zila Parishad"
+        }
+    ],
+    "12220A": [
+        {
+            "value": "122100",
+            "text": "Bangladesh Textile Mills Corporation & Related Enterprises - Public Non-financial Corporations"
+        }
+    ],
+    "12220B": [
+        {
+            "value": "122220",
+            "text": "Food and Allied Industries"
+        },
+        {
+            "value": "122210",
+            "text": "Sugar Mills"
+        }
+    ],
+    "12220C": [
+        {
+            "value": "122310",
+            "text": "Fertilizer, Chemical and Pharmaceutical Industries"
+        },
+        {
+            "value": "122320",
+            "text": "Paper and Paper Board Industries"
+        }
+    ],
+    "12220D": [
+        {
+            "value": "122420",
+            "text": " Engineering and Ship Building Industries "
+        },
+        {
+            "value": "122410",
+            "text": "Steel Mills "
+        }
+    ],
+    "12220E": [
+        {
+            "value": "122510",
+            "text": "Bangladesh Jute Mills Corporation and Related Enterprises - Public Non-financial Corporations"
+        }
+    ],
+    "12220F": [
+        {
+            "value": "122620",
+            "text": "Bangladesh Oil, Gas & Mineral Corporation & related enterprises"
+        },
+        {
+            "value": "122610",
+            "text": "Bangladesh Petroleum Corporation & related enterprises"
+        },
+        {
+            "value": "122630",
+            "text": "Hydrocarbon Unit, Bangladesh"
+        }
+    ],
+    "12220G": [
+        {
+            "value": "123425",
+            "text": "Ashuganj Power Station Company Ltd (APSCL)"
+        },
+        {
+            "value": "123405",
+            "text": "Bangladesh Power Development Board"
+        },
+        {
+            "value": "123415",
+            "text": "Dhaka Electric Supply Authority (DESA)"
+        },
+        {
+            "value": "123420",
+            "text": "Dhaka Electric Supply Company (DESCO)"
+        },
+        {
+            "value": "123445",
+            "text": "Dhaka Power Distribution Company Ltd (DPDCL)"
+        },
+        {
+            "value": "123430",
+            "text": "Electricity Generation Company of Bangladesh Ltd (EGCB)"
+        },
+        {
+            "value": "123435",
+            "text": "North West Power Generation Company Ltd (NWPGC)"
+        },
+        {
+            "value": "123499",
+            "text": "Other Enterprises of PDB"
+        },
+        {
+            "value": "123465",
+            "text": "Pally Bidyut Samities"
+        },
+        {
+            "value": "123460",
+            "text": "Power Cell"
+        },
+        {
+            "value": "123450",
+            "text": "Power Grid Company of Bangladesh (PGCB)"
+        },
+        {
+            "value": "123410",
+            "text": "Rural Electrification Board (REB)"
+        },
+        {
+            "value": "123455",
+            "text": "Rural Power Company Ltd (RPCL)"
+        },
+        {
+            "value": "123440",
+            "text": "West Zone Power Distribution Company Ltd (WZPDCL)"
+        }
+    ],
+    "12220H": [
+        {
+            "value": "123713",
+            "text": "Bangabandhu Sheikh Mujibur Rahman Novo Theatre"
+        },
+        {
+            "value": "122810",
+            "text": "Bangladesh Biman Corporation"
+        },
+        {
+            "value": "123707",
+            "text": "Bangladesh Cable Industries Corporation"
+        },
+        {
+            "value": "123715",
+            "text": "Bangladesh Cable Shilpa Limited"
+        },
+        {
+            "value": "123702",
+            "text": "Bangladesh Film Development Corporation"
+        },
+        {
+            "value": "123110",
+            "text": "Bangladesh Fish Development  Corporation"
+        },
+        {
+            "value": "122905",
+            "text": "Bangladesh Forest Industries Development  Corporation"
+        },
+        {
+            "value": "123705",
+            "text": "Bangladesh Freedom Fighters Welfare Trust"
+        },
+        {
+            "value": "123210",
+            "text": "Bangladesh Inland Water Transport Authority (BIWTA)"
+        },
+        {
+            "value": "123220",
+            "text": "Bangladesh Inland Water Transport Corporation (BIWTC)"
+        },
+        {
+            "value": "123718",
+            "text": "Bangladesh Machine Tools Factory Limited"
+        },
+        {
+            "value": "123701",
+            "text": "Bangladesh Parjatan Corporation"
+        },
+        {
+            "value": "122902",
+            "text": "Bangladesh Railway"
+        },
+        {
+            "value": "122904",
+            "text": "Bangladesh Road Transport Corporation (BRTC)"
+        },
+        {
+            "value": "123709",
+            "text": "Bangladesh Services Ltd."
+        },
+        {
+            "value": "122820",
+            "text": "Bangladesh Shipping Corporation"
+        },
+        {
+            "value": "123610",
+            "text": "Bangladesh Small & Cottage Industries Corporation (BSCIC)"
+        },
+        {
+            "value": "123530",
+            "text": "Bangladesh Sthal Bandar Katripaksha"
+        },
+        {
+            "value": "123714",
+            "text": "Bangladesh Submarine Cable Company Limited"
+        },
+        {
+            "value": "123708",
+            "text": "Bangladesh Tannery Industries Corporation"
+        },
+        {
+            "value": "123120",
+            "text": "Bangladesh Tea Board"
+        },
+        {
+            "value": "122903",
+            "text": "Bangladesh Telecommunications Company Limited (BTCL)(Including Teletalk Bangladesh Ltd)"
+        },
+        {
+            "value": "123310",
+            "text": "Bangladesh Water Development Board"
+        },
+        {
+            "value": "123510",
+            "text": "Chittagong Port Authority"
+        },
+        {
+            "value": "123704",
+            "text": "Civil Aviation Authority  of Bangladesh"
+        },
+        {
+            "value": "123712",
+            "text": "Dock Labour Management Board, Bagerhat"
+        },
+        {
+            "value": "123711",
+            "text": "Dock Labour Management Board, Chittagong"
+        },
+        {
+            "value": "123716",
+            "text": "Essential Drugs Company Limited"
+        },
+        {
+            "value": "123710",
+            "text": "Hotels International Ltd. (3 Stars & above)"
+        },
+        {
+            "value": "123717",
+            "text": "Khulna Shipyard Limited"
+        },
+        {
+            "value": "123520",
+            "text": "Mongla  Port Authority"
+        },
+        {
+            "value": "123799",
+            "text": "Other Non-Financial Corporations-Public"
+        },
+        {
+            "value": "123706",
+            "text": "Telephone Shilpa Sangstha"
+        },
+        {
+            "value": "122901",
+            "text": "Trading Corporation of Bangladesh"
+        },
+        {
+            "value": "123390",
+            "text": "WASA (Dhaka, Chittagong, Khulna etc)"
+        }
+    ],
+    "012230": [
+        {
+            "value": "121710",
+            "text": "Ansar-VDP Unnayan Bank"
+        },
+        {
+            "value": "121720",
+            "text": "Karma Sangsthan Bank"
+        },
+        {
+            "value": "121750",
+            "text": "Other Non-Bank Depository Corporations-Public"
+        },
+        {
+            "value": "121730",
+            "text": "Probashi Kallyan  Bank"
+        }
+    ],
+    "012240": [
+        {
+            "value": "121519",
+            "text": "Agrani SME Financing Company Limited"
+        },
+        {
+            "value": "121100",
+            "text": "Bangladesh House Building Finance Corporation (HBFC)"
+        },
+        {
+            "value": "121520",
+            "text": "Bangladesh Infrastructure Finance Fund Limited"
+        },
+        {
+            "value": "121516",
+            "text": "Equity Entrepreneurship Fund"
+        },
+        {
+            "value": "121517",
+            "text": "Grihayan Tahabil"
+        },
+        {
+            "value": "121501",
+            "text": "Infrastructure Development Company Limited (IDCOL)"
+        },
+        {
+            "value": "121300",
+            "text": "Investment Corporation of Bangladesh (ICB)"
+        },
+        {
+            "value": "121599",
+            "text": "Other Financial Intermediaries-Public"
+        },
+        {
+            "value": "121515",
+            "text": "Palli Karma-Sahayak Foundation (PKSF)"
+        },
+        {
+            "value": "121518",
+            "text": "SME Foundation"
+        },
+        {
+            "value": "121510",
+            "text": "Saudi Bangladesh Industrial and Agricultural Investment Company Limited (SABINCO)."
+        }
+    ],
+    "012250": [
+        {
+            "value": "121700",
+            "text": "Jiban Bima Corporation"
+        },
+        {
+            "value": "121799",
+            "text": "Pension Funds /Provident Funds of Government Offices"
+        },
+        {
+            "value": "121600",
+            "text": "Sadharan Bima Corporation"
+        }
+    ],
+    "012330": [
+        {
+            "value": "909650",
+            "text": "Bangladesh Samabaya Bank Ltd "
+        },
+        {
+            "value": "909300",
+            "text": "Central Co-operative Bank  "
+        },
+        {
+            "value": "909600",
+            "text": "Grameen Bank  "
+        },
+        {
+            "value": "909400",
+            "text": "Land Mortgage Co-operative Bank "
+        },
+        {
+            "value": "909200",
+            "text": "Leasing Companies (Appendix-Pages : 173)"
+        },
+        {
+            "value": "909500",
+            "text": "Other Co-operative Banks/Societies "
+        },
+        {
+            "value": "909699",
+            "text": "Other Depository Corporations "
+        }
+    ],
+    "012340": [
+        {
+            "value": "909210",
+            "text": "Investment Companies  "
+        },
+        {
+            "value": "909220",
+            "text": "Leasing Companies (Non-depository)"
+        },
+        {
+            "value": "909240",
+            "text": "Merchant Banks  "
+        },
+        {
+            "value": "909230",
+            "text": "Mutual Funds  "
+        },
+        {
+            "value": "909250",
+            "text": "NGO/Micro Credit Organizations (BRAC, ASA, PROSHIKA etc.)"
+        },
+        {
+            "value": "909299",
+            "text": "Other Financial Intermediaries  "
+        }
+    ],
+    "012350": [
+        {
+            "value": "909110",
+            "text": " Life Insurance Companies"
+        },
+        {
+            "value": "909120",
+            "text": "General Insurance Companies"
+        },
+        {
+            "value": "909199",
+            "text": "Pension Funds /Provident Funds of private organisations  "
+        }
+    ],
+    "012360": [
+        {
+            "value": "909720",
+            "text": "Brokerage Houses/ (Share & Security Trading Houses)"
+        },
+        {
+            "value": "909730",
+            "text": "Issue manager, Under-writer, Asset Management Company etc.  "
+        },
+        {
+            "value": "909700",
+            "text": "Money Changers  "
+        },
+        {
+            "value": "909799",
+            "text": "Other Financial Auxiliaries  "
+        },
+        {
+            "value": "909710",
+            "text": "Stock Exchanges (DSE, CSE, etc)"
+        }
+    ],
+    "12370A": [
+        {
+            "value": "901001",
+            "text": "Agricultural Farms (Nursery, Horticulture, Apiculture etc)"
+        },
+        {
+            "value": "901003",
+            "text": "Dairy Farms  "
+        },
+        {
+            "value": "901002",
+            "text": "Fishing Farms ( Hatchery, Shrimp Culture etc)"
+        },
+        {
+            "value": "901004",
+            "text": "Poultry Farms  "
+        }
+    ],
+    "12370B": [
+        {
+            "value": "902466",
+            "text": "Advertising Industry and modeling (print modeling, TV commercials, ramp modeling, catwalk, fashion-show)"
+        },
+        {
+            "value": "902403",
+            "text": "Air Transport  "
+        },
+        {
+            "value": "902138",
+            "text": "Assembling Industry  "
+        },
+        {
+            "value": "902481",
+            "text": "Audit and Accounting Firm/CA Firm/ Credit Rating Company  "
+        },
+        {
+            "value": "902465",
+            "text": "Auto mobile service including CNG conversion centre.  "
+        },
+        {
+            "value": "902154",
+            "text": "Battery Manufacturing Industries  "
+        },
+        {
+            "value": "902454",
+            "text": "Beauty Parlours/ Saloons/ Health Club/Fitness centre  "
+        },
+        {
+            "value": "902143",
+            "text": "Beverage and Soft Drinks manufacturing Companies  "
+        },
+        {
+            "value": "902133",
+            "text": "Bricks Manufacturers and Sand elevators  "
+        },
+        {
+            "value": "902409",
+            "text": "Buying House  "
+        },
+        {
+            "value": "902469",
+            "text": "Caterers /Decorators/Sound & Lighting rental business"
+        },
+        {
+            "value": "902131",
+            "text": "Cement Factories  "
+        },
+        {
+            "value": "902132",
+            "text": "Ceramic Industries  "
+        },
+        {
+            "value": "902461",
+            "text": "Chain Super Market/Shopping Mall  "
+        },
+        {
+            "value": "902130",
+            "text": "Chemical and Chemical Products Industries  "
+        },
+        {
+            "value": "902483",
+            "text": "Cinema Hall/Cineplex  "
+        },
+        {
+            "value": "902482",
+            "text": "Cinema Studio  "
+        },
+        {
+            "value": "902455",
+            "text": "Clearing & Forwarding (C&F) Agents"
+        },
+        {
+            "value": "902521",
+            "text": "Coconut oil production industries "
+        },
+        {
+            "value": "902453",
+            "text": "Cold-Storages  "
+        },
+        {
+            "value": "902470",
+            "text": "Community Centers/ Convention centers/Auditorium  "
+        },
+        {
+            "value": "902404",
+            "text": "Construction Companies  "
+        },
+        {
+            "value": "902486",
+            "text": "Consultancy & Supervisory Farms"
+        },
+        {
+            "value": "902488",
+            "text": "Contractor and Supplier farms  "
+        },
+        {
+            "value": "902116",
+            "text": "Cosmetics & Toiletries Industries"
+        },
+        {
+            "value": "902157",
+            "text": "Cottage Industries  "
+        },
+        {
+            "value": "902440",
+            "text": "Courier Services & Express Mail Services"
+        },
+        {
+            "value": "902144",
+            "text": "Distilleries, Mineral & Drinking Water purifying industries"
+        },
+        {
+            "value": "902161",
+            "text": "EPZ Industries (Type A)"
+        },
+        {
+            "value": "902162",
+            "text": "EPZ Industries (Type B)"
+        },
+        {
+            "value": "902163",
+            "text": "EPZ Industries (Type C)"
+        },
+        {
+            "value": "902150",
+            "text": "Electronic Goods Manufacturing/Assembling Industries (TV, Computer etc)"
+        },
+        {
+            "value": "902410",
+            "text": "Entertainment (Amusement Park, Theme park, eco park, zoo etc.) Services "
+        },
+        {
+            "value": "902141",
+            "text": "Fertilizer Company  "
+        },
+        {
+            "value": "902458",
+            "text": "Filling Stations (Petrol pump, CNG Station)"
+        },
+        {
+            "value": "902510",
+            "text": "Fish feed and fish meal processing for poultry and livestock  "
+        },
+        {
+            "value": "902524",
+            "text": "Food Processing Industry (PRAN, AFTAB, BD-Food etc)"
+        },
+        {
+            "value": "902472",
+            "text": "Freight Forwarders  "
+        },
+        {
+            "value": "902503",
+            "text": "Fruits processing including vegetables(Tomato, guava, jackfruit, lichie, pineapple, coconut etc.)"
+        },
+        {
+            "value": "902122",
+            "text": "Furniture, Fixture, Particle Boards and Other Wood product manufacturers "
+        },
+        {
+            "value": "902155",
+            "text": "Garments Accessories manufacturing industries (Zipper, Button etc)"
+        },
+        {
+            "value": "902134",
+            "text": "Glass and Glassware Products Factories "
+        },
+        {
+            "value": "902484",
+            "text": "Graphic Designers  "
+        },
+        {
+            "value": "902160",
+            "text": "Handicrafts Factories  "
+        },
+        {
+            "value": "902159",
+            "text": "Handloom Factories  "
+        },
+        {
+            "value": "902126",
+            "text": "Hosiery Factories  "
+        },
+        {
+            "value": "902420",
+            "text": "Hospitals, Clinics, Diagnostic Centers and Other Health Services "
+        },
+        {
+            "value": "902407",
+            "text": "Housing Companies or Societies/Land Developers  "
+        },
+        {
+            "value": "902430",
+            "text": "IT-based activities (system analysis, design, developing system,solutions, Grameen Solution, information service, call centre,service, offshore development centre, business processoutsourcing , Cyber Cafes, Internet Service etc.)"
+        },
+        {
+            "value": "902151",
+            "text": "Ice Factory  "
+        },
+        {
+            "value": "902473",
+            "text": "Indenting firms  "
+        },
+        {
+            "value": "902487",
+            "text": "Interior Design & Decorators and other engineering consultancy farms"
+        },
+        {
+            "value": "902110",
+            "text": "Jute Mills/Jute products Manufacturing Industries (rope, thread, twain, canvass, bag, carpet, etc.)"
+        },
+        {
+            "value": "902463",
+            "text": "Jwelery Services  "
+        },
+        {
+            "value": "902311",
+            "text": "LP Gas Companies  "
+        },
+        {
+            "value": "902475",
+            "text": "Laundry Services  "
+        },
+        {
+            "value": "902145",
+            "text": "Leather Processing and Tanning (raw hide)"
+        },
+        {
+            "value": "902119",
+            "text": "Leather Products ( bag, shoe, etManufacturing Industries)  "
+        },
+        {
+            "value": "902474",
+            "text": "Legal advisory Firms  "
+        },
+        {
+            "value": "902485",
+            "text": "Light Engineering and Metal-workshop  "
+        },
+        {
+            "value": "902147",
+            "text": "Manufacturing of Electrical equipments & spares ( cables, bulbs, switches etc)"
+        },
+        {
+            "value": "902148",
+            "text": "Manufacturing of Transport Equipments  "
+        },
+        {
+            "value": "902509",
+            "text": "Manufacturing of Unani and Ayurvedic Medicines/Herbal Cosmetics  "
+        },
+        {
+            "value": "902149",
+            "text": "Manufacturing of agro-equipments  "
+        },
+        {
+            "value": "902504",
+            "text": "Manufacturing of flour, sujee (Flour Mills)"
+        },
+        {
+            "value": "902515",
+            "text": "Meat processing  "
+        },
+        {
+            "value": "902523",
+            "text": "Milk Processing Industries(Pasteurisation, milk powder, ice-cream, condensed milk, sweet, cheese, butter, ghee, chocolate, curd etc)"
+        },
+        {
+            "value": "902464",
+            "text": "Modernised Cleaning Service for High-rise Apartments, Commercial Building "
+        },
+        {
+            "value": "902520",
+            "text": "Mustard oil producing industry (if local variety is used). "
+        },
+        {
+            "value": "902599",
+            "text": "Other Agro based Industries. "
+        },
+        {
+            "value": "902313",
+            "text": "Other Gas Companies  "
+        },
+        {
+            "value": "902199",
+            "text": "Other Industries not above mentioned "
+        },
+        {
+            "value": "902499",
+            "text": "Other Services  "
+        },
+        {
+            "value": "902319",
+            "text": "Others  "
+        },
+        {
+            "value": "902467",
+            "text": "Outsourcing and Security Service (Private Security forces/manpower supply)"
+        },
+        {
+            "value": "902312",
+            "text": "Oxygen Gas Companies  "
+        },
+        {
+            "value": "902146",
+            "text": "Packaging Industries including paper boards  "
+        },
+        {
+            "value": "902121",
+            "text": "Paper and Paper Products Manufacturing Industries  "
+        },
+        {
+            "value": "902127",
+            "text": "Pharmaceutical Industries  "
+        },
+        {
+            "value": "902451",
+            "text": "Photo Studios and Color labs  "
+        },
+        {
+            "value": "902156",
+            "text": "Polymer and polythene industries  "
+        },
+        {
+            "value": "902111",
+            "text": "Printing & Dyeing Industries"
+        },
+        {
+            "value": "902459",
+            "text": "Private Inland Container Depot and Container Freight Station  "
+        },
+        {
+            "value": "902476",
+            "text": "Private Survey Institutions  "
+        },
+        {
+            "value": "902502",
+            "text": "Processed fruit products (jam, jelly, juice, pickles, asrbat, syrup,sauce etc."
+        },
+        {
+            "value": "902528",
+            "text": "Processing of Prawn/Shrimp and other fishes and freezing  "
+        },
+        {
+            "value": "902501",
+            "text": "Processing of bread and biscuits, vermicelli, laccha, chanachur, noodles etc. "
+        },
+        {
+            "value": "902505",
+            "text": "Processing of mushroom and spirulina  "
+        },
+        {
+            "value": "902507",
+            "text": "Processing of potato products (chips, potato, flex, starch etc.)"
+        },
+        {
+            "value": "902513",
+            "text": "Processing of rubber tape, shellac  "
+        },
+        {
+            "value": "902514",
+            "text": "Production of bamboo and cane furniture (excluding cottage industry)"
+        },
+        {
+            "value": "902516",
+            "text": "Production of bio slurry, mixed manure and urea.  "
+        },
+        {
+            "value": "902517",
+            "text": "Production of bio-pesticides, neem pesticides etc. "
+        },
+        {
+            "value": "902310",
+            "text": "Production, supply and distribution of power in the private sector "
+        },
+        {
+            "value": "902405",
+            "text": "Publishing Industries (including printing press)"
+        },
+        {
+            "value": "902512",
+            "text": "Pulse Mills  "
+        },
+        {
+            "value": "902125",
+            "text": "Readymade Garments Industries  "
+        },
+        {
+            "value": "902527",
+            "text": "Refining and hydrogenation of edible oil, vanaspati, Ghee etc  "
+        },
+        {
+            "value": "902468",
+            "text": "Residential Hotels ( Including star & Above)"
+        },
+        {
+            "value": "902450",
+            "text": "Restaurants /Fast Food  "
+        },
+        {
+            "value": "902522",
+            "text": "Rice mills including puffed rice, chirra , fine rice, flavoured rice etc.  "
+        },
+        {
+            "value": "902401",
+            "text": "Road Transport Companies (including Rent -a - car)"
+        },
+        {
+            "value": "902117",
+            "text": "Rubber And Plastic Industries  "
+        },
+        {
+            "value": "902525",
+            "text": "Salt Processing Industries  "
+        },
+        {
+            "value": "902479",
+            "text": "Satellite Cable Operator  "
+        },
+        {
+            "value": "902480",
+            "text": "Satellite Channel Distributor/Cinema Distributors  "
+        },
+        {
+            "value": "902158",
+            "text": "Saw Mills  "
+        },
+        {
+            "value": "902511",
+            "text": "Seed processing and preservation  "
+        },
+        {
+            "value": "902153",
+            "text": "Ship Breaking Industries  "
+        },
+        {
+            "value": "902152",
+            "text": "Ship Building Industries  "
+        },
+        {
+            "value": "902471",
+            "text": "Shipping Agency  "
+        },
+        {
+            "value": "902136",
+            "text": "Soaps & Detergents Factories"
+        },
+        {
+            "value": "902519",
+            "text": "Soya food production & processing."
+        },
+        {
+            "value": "902112",
+            "text": "Spinning Mills  "
+        },
+        {
+            "value": "902477",
+            "text": "Sports and Event management organisation  "
+        },
+        {
+            "value": "902506",
+            "text": "Starch, glucose and other dextrose product  "
+        },
+        {
+            "value": "902137",
+            "text": "Steel Engineering & Metallic Products Industries (Including Rerolling Mills)"
+        },
+        {
+            "value": "902462",
+            "text": "Stone Crashers  "
+        },
+        {
+            "value": "902142",
+            "text": "Sugar Mills  "
+        },
+        {
+            "value": "902518",
+            "text": "Sweetening products.  "
+        },
+        {
+            "value": "902478",
+            "text": "Tailoring Shop and Tailors  "
+        },
+        {
+            "value": "902460",
+            "text": "Tank Terminal  "
+        },
+        {
+            "value": "902526",
+            "text": "Tea processing industries  "
+        },
+        {
+            "value": "902406",
+            "text": "Telecommunication  (Mobile/cellular operators and private land phone, Grameen Phone, Banglalink etc)"
+        },
+        {
+            "value": "902456",
+            "text": "Testing Laboratory  "
+        },
+        {
+            "value": "902120",
+            "text": "Textile Mills  "
+        },
+        {
+            "value": "902115",
+            "text": "Tobacco Processing Industries  "
+        },
+        {
+            "value": "902457",
+            "text": "Tourism Industry (List available at page no- 115)"
+        },
+        {
+            "value": "902452",
+            "text": "Travel Agencies/Overseas Employment / Aviation Service/Immigration consultants/Ticket sales agent "
+        },
+        {
+            "value": "902408",
+            "text": "Warehouse  "
+        },
+        {
+            "value": "902402",
+            "text": "Water Transport  "
+        },
+        {
+            "value": "902113",
+            "text": "Weaving Mills  "
+        },
+        {
+            "value": "902508",
+            "text": "processing of powder spice  "
+        }
+    ],
+    "12370C": [
+        {
+            "value": "903020",
+            "text": "Exporters  "
+        },
+        {
+            "value": "903010",
+            "text": "Importers  "
+        },
+        {
+            "value": "903030",
+            "text": "Importers and Exporters "
+        },
+        {
+            "value": "903090",
+            "text": "Other Business Institutions  "
+        },
+        {
+            "value": "903050",
+            "text": "Retail Traders  "
+        },
+        {
+            "value": "903040",
+            "text": "Whole Sale Traders  "
+        }
+    ],
+    "12370D": [
+        {
+            "value": "907601",
+            "text": "Newspaper  "
+        },
+        {
+            "value": "907604",
+            "text": "Online News Media  "
+        },
+        {
+            "value": "907603",
+            "text": "Radio  "
+        },
+        {
+            "value": "907602",
+            "text": "Television  "
+        }
+    ],
+    "12370E": [
+        {
+            "value": "908200",
+            "text": "Medical & Dental Colleges"
+        },
+        {
+            "value": "908900",
+            "text": "Other Educational /Training institutes /Technical Vocational Institute  "
+        },
+        {
+            "value": "908400",
+            "text": "Private Institute of IT  "
+        },
+        {
+            "value": "908100",
+            "text": "Private Schools, Colleges, University Colleges & Madrashas"
+        },
+        {
+            "value": "908300",
+            "text": "Private Universities  "
+        }
+    ],
+    "12370F": [
+        {
+            "value": "909051",
+            "text": "Other Private Sector ( Official Account n.i.e. Sundry Deposit, CIB Inquiry Charge, Clearing Adjustment Account, Inoperative Account, Suspense account etc.)"
+        }
+    ],
+    "1237B1": [
+        {
+            "value": "902138",
+            "text": "Assembling Industry  "
+        },
+        {
+            "value": "902154",
+            "text": "Battery Manufacturing Industries  "
+        },
+        {
+            "value": "902143",
+            "text": "Beverage and Soft Drinks manufacturing Companies  "
+        },
+        {
+            "value": "902133",
+            "text": "Bricks Manufacturers and Sand elevators  "
+        },
+        {
+            "value": "902131",
+            "text": "Cement Factories  "
+        },
+        {
+            "value": "902132",
+            "text": "Ceramic Industries  "
+        },
+        {
+            "value": "902130",
+            "text": "Chemical and Chemical Products Industries  "
+        },
+        {
+            "value": "902116",
+            "text": "Cosmetics & Toiletries Industries"
+        },
+        {
+            "value": "902157",
+            "text": "Cottage Industries  "
+        },
+        {
+            "value": "902144",
+            "text": "Distilleries, Mineral & Drinking Water purifying industries"
+        },
+        {
+            "value": "902161",
+            "text": "EPZ Industries (Type A)"
+        },
+        {
+            "value": "902162",
+            "text": "EPZ Industries (Type B)"
+        },
+        {
+            "value": "902163",
+            "text": "EPZ Industries (Type C)"
+        },
+        {
+            "value": "902150",
+            "text": "Electronic Goods Manufacturing/Assembling Industries (TV, Computer etc)"
+        },
+        {
+            "value": "902141",
+            "text": "Fertilizer Company  "
+        },
+        {
+            "value": "902122",
+            "text": "Furniture, Fixture, Particle Boards and Other Wood product manufacturers "
+        },
+        {
+            "value": "902155",
+            "text": "Garments Accessories manufacturing industries (Zipper, Button etc)"
+        },
+        {
+            "value": "902134",
+            "text": "Glass and Glassware Products Factories "
+        },
+        {
+            "value": "902160",
+            "text": "Handicrafts Factories  "
+        },
+        {
+            "value": "902159",
+            "text": "Handloom Factories  "
+        },
+        {
+            "value": "902126",
+            "text": "Hosiery Factories  "
+        },
+        {
+            "value": "902151",
+            "text": "Ice Factory  "
+        },
+        {
+            "value": "902110",
+            "text": "Jute Mills/Jute products Manufacturing Industries (rope, thread, twain, canvass, bag, carpet, etc.)"
+        },
+        {
+            "value": "902145",
+            "text": "Leather Processing and Tanning (raw hide)"
+        },
+        {
+            "value": "902119",
+            "text": "Leather Products ( bag, shoe, etManufacturing Industries)  "
+        },
+        {
+            "value": "902147",
+            "text": "Manufacturing of Electrical equipments & spares ( cables, bulbs, switches etc)"
+        },
+        {
+            "value": "902148",
+            "text": "Manufacturing of Transport Equipments  "
+        },
+        {
+            "value": "902149",
+            "text": "Manufacturing of agro-equipments  "
+        },
+        {
+            "value": "902199",
+            "text": "Other Industries not above mentioned "
+        },
+        {
+            "value": "902146",
+            "text": "Packaging Industries including paper boards  "
+        },
+        {
+            "value": "902121",
+            "text": "Paper and Paper Products Manufacturing Industries  "
+        },
+        {
+            "value": "902127",
+            "text": "Pharmaceutical Industries  "
+        },
+        {
+            "value": "902156",
+            "text": "Polymer and polythene industries  "
+        },
+        {
+            "value": "902111",
+            "text": "Printing & Dyeing Industries"
+        },
+        {
+            "value": "902125",
+            "text": "Readymade Garments Industries  "
+        },
+        {
+            "value": "902117",
+            "text": "Rubber And Plastic Industries  "
+        },
+        {
+            "value": "902158",
+            "text": "Saw Mills  "
+        },
+        {
+            "value": "902153",
+            "text": "Ship Breaking Industries  "
+        },
+        {
+            "value": "902152",
+            "text": "Ship Building Industries  "
+        },
+        {
+            "value": "902136",
+            "text": "Soaps & Detergents Factories"
+        },
+        {
+            "value": "902112",
+            "text": "Spinning Mills  "
+        },
+        {
+            "value": "902137",
+            "text": "Steel Engineering & Metallic Products Industries (Including Rerolling Mills)"
+        },
+        {
+            "value": "902142",
+            "text": "Sugar Mills  "
+        },
+        {
+            "value": "902120",
+            "text": "Textile Mills  "
+        },
+        {
+            "value": "902115",
+            "text": "Tobacco Processing Industries  "
+        },
+        {
+            "value": "902113",
+            "text": "Weaving Mills  "
+        }
+    ],
+    "1237B2": [
+        {
+            "value": "902311",
+            "text": "LP Gas Companies  "
+        },
+        {
+            "value": "902313",
+            "text": "Other Gas Companies  "
+        },
+        {
+            "value": "902319",
+            "text": "Others  "
+        },
+        {
+            "value": "902312",
+            "text": "Oxygen Gas Companies  "
+        },
+        {
+            "value": "902310",
+            "text": "Production, supply and distribution of power in the private sector "
+        }
+    ],
+    "1237B3": [
+        {
+            "value": "902466",
+            "text": "Advertising Industry and modeling (print modeling, TV commercials, ramp modeling, catwalk, fashion-show)"
+        },
+        {
+            "value": "902403",
+            "text": "Air Transport  "
+        },
+        {
+            "value": "902481",
+            "text": "Audit and Accounting Firm/CA Firm/ Credit Rating Company  "
+        },
+        {
+            "value": "902465",
+            "text": "Auto mobile service including CNG conversion centre.  "
+        },
+        {
+            "value": "902454",
+            "text": "Beauty Parlours/ Saloons/ Health Club/Fitness centre  "
+        },
+        {
+            "value": "902409",
+            "text": "Buying House  "
+        },
+        {
+            "value": "902469",
+            "text": "Caterers /Decorators/Sound & Lighting rental business"
+        },
+        {
+            "value": "902461",
+            "text": "Chain Super Market/Shopping Mall  "
+        },
+        {
+            "value": "902483",
+            "text": "Cinema Hall/Cineplex  "
+        },
+        {
+            "value": "902482",
+            "text": "Cinema Studio  "
+        },
+        {
+            "value": "902455",
+            "text": "Clearing & Forwarding (C&F) Agents"
+        },
+        {
+            "value": "902453",
+            "text": "Cold-Storages  "
+        },
+        {
+            "value": "902470",
+            "text": "Community Centers/ Convention centers/Auditorium  "
+        },
+        {
+            "value": "902404",
+            "text": "Construction Companies  "
+        },
+        {
+            "value": "902486",
+            "text": "Consultancy & Supervisory Farms"
+        },
+        {
+            "value": "902488",
+            "text": "Contractor and Supplier farms  "
+        },
+        {
+            "value": "902440",
+            "text": "Courier Services & Express Mail Services"
+        },
+        {
+            "value": "902410",
+            "text": "Entertainment (Amusement Park, Theme park, eco park, zoo etc.) Services "
+        },
+        {
+            "value": "902458",
+            "text": "Filling Stations (Petrol pump, CNG Station)"
+        },
+        {
+            "value": "902472",
+            "text": "Freight Forwarders  "
+        },
+        {
+            "value": "902484",
+            "text": "Graphic Designers  "
+        },
+        {
+            "value": "902420",
+            "text": "Hospitals, Clinics, Diagnostic Centers and Other Health Services "
+        },
+        {
+            "value": "902407",
+            "text": "Housing Companies or Societies/Land Developers  "
+        },
+        {
+            "value": "902430",
+            "text": "IT-based activities (system analysis, design, developing system,solutions, Grameen Solution, information service, call centre,service, offshore development centre, business processoutsourcing , Cyber Cafes, Internet Service etc.)"
+        },
+        {
+            "value": "902473",
+            "text": "Indenting firms  "
+        },
+        {
+            "value": "902487",
+            "text": "Interior Design & Decorators and other engineering consultancy farms"
+        },
+        {
+            "value": "902463",
+            "text": "Jwelery Services  "
+        },
+        {
+            "value": "902475",
+            "text": "Laundry Services  "
+        },
+        {
+            "value": "902474",
+            "text": "Legal advisory Firms  "
+        },
+        {
+            "value": "902485",
+            "text": "Light Engineering and Metal-workshop  "
+        },
+        {
+            "value": "902464",
+            "text": "Modernised Cleaning Service for High-rise Apartments, Commercial Building "
+        },
+        {
+            "value": "902499",
+            "text": "Other Services  "
+        },
+        {
+            "value": "902467",
+            "text": "Outsourcing and Security Service (Private Security forces/manpower supply)"
+        },
+        {
+            "value": "902451",
+            "text": "Photo Studios and Color labs  "
+        },
+        {
+            "value": "902459",
+            "text": "Private Inland Container Depot and Container Freight Station  "
+        },
+        {
+            "value": "902476",
+            "text": "Private Survey Institutions  "
+        },
+        {
+            "value": "902405",
+            "text": "Publishing Industries (including printing press)"
+        },
+        {
+            "value": "902468",
+            "text": "Residential Hotels ( Including star & Above)"
+        },
+        {
+            "value": "902450",
+            "text": "Restaurants /Fast Food  "
+        },
+        {
+            "value": "902401",
+            "text": "Road Transport Companies (including Rent -a - car)"
+        },
+        {
+            "value": "902479",
+            "text": "Satellite Cable Operator  "
+        },
+        {
+            "value": "902480",
+            "text": "Satellite Channel Distributor/Cinema Distributors  "
+        },
+        {
+            "value": "902471",
+            "text": "Shipping Agency  "
+        },
+        {
+            "value": "902477",
+            "text": "Sports and Event management organisation  "
+        },
+        {
+            "value": "902462",
+            "text": "Stone Crashers  "
+        },
+        {
+            "value": "902478",
+            "text": "Tailoring Shop and Tailors  "
+        },
+        {
+            "value": "902460",
+            "text": "Tank Terminal  "
+        },
+        {
+            "value": "902406",
+            "text": "Telecommunication  (Mobile/cellular operators and private land phone, Grameen Phone, Banglalink etc)"
+        },
+        {
+            "value": "902456",
+            "text": "Testing Laboratory  "
+        },
+        {
+            "value": "902457",
+            "text": "Tourism Industry (List available at page no- 115)"
+        },
+        {
+            "value": "902452",
+            "text": "Travel Agencies/Overseas Employment / Aviation Service/Immigration consultants/Ticket sales agent "
+        },
+        {
+            "value": "902408",
+            "text": "Warehouse  "
+        },
+        {
+            "value": "902402",
+            "text": "Water Transport  "
+        }
+    ],
+    "1237B4": [
+        {
+            "value": "902521",
+            "text": "Coconut oil production industries "
+        },
+        {
+            "value": "902510",
+            "text": "Fish feed and fish meal processing for poultry and livestock  "
+        },
+        {
+            "value": "902524",
+            "text": "Food Processing Industry (PRAN, AFTAB, BD-Food etc)"
+        },
+        {
+            "value": "902503",
+            "text": "Fruits processing including vegetables(Tomato, guava, jackfruit, lichie, pineapple, coconut etc.)"
+        },
+        {
+            "value": "902509",
+            "text": "Manufacturing of Unani and Ayurvedic Medicines/Herbal Cosmetics  "
+        },
+        {
+            "value": "902504",
+            "text": "Manufacturing of flour, sujee (Flour Mills)"
+        },
+        {
+            "value": "902515",
+            "text": "Meat processing  "
+        },
+        {
+            "value": "902523",
+            "text": "Milk Processing Industries(Pasteurisation, milk powder, ice-cream, condensed milk, sweet, cheese, butter, ghee, chocolate, curd etc)"
+        },
+        {
+            "value": "902520",
+            "text": "Mustard oil producing industry (if local variety is used). "
+        },
+        {
+            "value": "902599",
+            "text": "Other Agro based Industries. "
+        },
+        {
+            "value": "902502",
+            "text": "Processed fruit products (jam, jelly, juice, pickles, asrbat, syrup,sauce etc."
+        },
+        {
+            "value": "902528",
+            "text": "Processing of Prawn/Shrimp and other fishes and freezing  "
+        },
+        {
+            "value": "902501",
+            "text": "Processing of bread and biscuits, vermicelli, laccha, chanachur, noodles etc. "
+        },
+        {
+            "value": "902505",
+            "text": "Processing of mushroom and spirulina  "
+        },
+        {
+            "value": "902507",
+            "text": "Processing of potato products (chips, potato, flex, starch etc.)"
+        },
+        {
+            "value": "902513",
+            "text": "Processing of rubber tape, shellac  "
+        },
+        {
+            "value": "902514",
+            "text": "Production of bamboo and cane furniture (excluding cottage industry)"
+        },
+        {
+            "value": "902516",
+            "text": "Production of bio slurry, mixed manure and urea.  "
+        },
+        {
+            "value": "902517",
+            "text": "Production of bio-pesticides, neem pesticides etc. "
+        },
+        {
+            "value": "902512",
+            "text": "Pulse Mills  "
+        },
+        {
+            "value": "902527",
+            "text": "Refining and hydrogenation of edible oil, vanaspati, Ghee etc  "
+        },
+        {
+            "value": "902522",
+            "text": "Rice mills including puffed rice, chirra , fine rice, flavoured rice etc.  "
+        },
+        {
+            "value": "902525",
+            "text": "Salt Processing Industries  "
+        },
+        {
+            "value": "902511",
+            "text": "Seed processing and preservation  "
+        },
+        {
+            "value": "902519",
+            "text": "Soya food production & processing."
+        },
+        {
+            "value": "902506",
+            "text": "Starch, glucose and other dextrose product  "
+        },
+        {
+            "value": "902518",
+            "text": "Sweetening products.  "
+        },
+        {
+            "value": "902526",
+            "text": "Tea processing industries  "
+        },
+        {
+            "value": "902508",
+            "text": "processing of powder spice  "
+        }
+    ],
+    "012380": [
+        {
+            "value": "914060",
+            "text": "Chambers of Industries  "
+        },
+        {
+            "value": "914058",
+            "text": "District/Upazila Associations  "
+        },
+        {
+            "value": "914051",
+            "text": "Mosques  "
+        },
+        {
+            "value": "914061",
+            "text": "Other Associations, n.e.s.  "
+        },
+        {
+            "value": "914054",
+            "text": "Other Clubs  "
+        },
+        {
+            "value": "914099",
+            "text": "Other Non-profit Organisations  "
+        },
+        {
+            "value": "914056",
+            "text": "Political Parties  "
+        },
+        {
+            "value": "914059",
+            "text": "Professional Associations(Doctors, Engineers, Statisticians, Economists etc.)"
+        },
+        {
+            "value": "914053",
+            "text": "Sports Clubs  "
+        },
+        {
+            "value": "914052",
+            "text": "Temples, Churches & the like"
+        },
+        {
+            "value": "914055",
+            "text": "Theatre & Cultural Organisations"
+        },
+        {
+            "value": "914057",
+            "text": "Trade Unions  "
+        },
+        {
+            "value": "914062",
+            "text": "Trust fund & Other Non-profit Organisations"
+        }
+    ],
+    "012390": [
+        {
+            "value": "903009",
+            "text": "Businessmen/Industrialist "
+        },
+        {
+            "value": "901009",
+            "text": "Farmer/Fishermen  "
+        },
+        {
+            "value": "912050",
+            "text": "Foreign Individuals  "
+        },
+        {
+            "value": "915001",
+            "text": "Housewife  "
+        },
+        {
+            "value": "915006",
+            "text": "Land Lord  "
+        },
+        {
+            "value": "915003",
+            "text": "Minor/Autistics/Disabled and other dependent persons  "
+        },
+        {
+            "value": "915005",
+            "text": "Old/Widowed/Distressed person  "
+        },
+        {
+            "value": "915059",
+            "text": "Other Local Individuals not above mentioned  "
+        },
+        {
+            "value": "910000",
+            "text": "Professionals and Self-employed Persons \r\n(Such as Doctors, Lawyers, Contractors, Taxi Drivers, Architects,Consultants, etc)"
+        },
+        {
+            "value": "915004",
+            "text": "Retired Persons  "
+        },
+        {
+            "value": "915002",
+            "text": "Student  "
+        },
+        {
+            "value": "911000",
+            "text": "Wage & Salary Earners (working in the country)"
+        },
+        {
+            "value": "910500",
+            "text": "Wage Earners (Bangladeshi nationals working abroad)"
+        }
+    ],
+    "012500": [
+        {
+            "value": "12500",
+            "text": "Deposit Money Banks"
+        }
+    ]
+}

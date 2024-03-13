@@ -1,0 +1,24 @@
+.navbar {
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    background-color: #a7d5ff;
+    color: white;
+    z-index: 1000;
+}
+
+.employee-info {
+    padding-top: 18px;
+    padding-right: 40px;
+    width: fit-content;
+}
+
+.emplyeeInfo {
+    color: rgb(66, 66, 66);
+}
+.active{
+    border:none;
+    box-shadow: 1px 1px 5px grey;
+    border-radius: 10px;
+    color: blue;
+}

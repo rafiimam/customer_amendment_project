@@ -1,0 +1,239 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap");
+
+.amendCustomer {
+  font-family: "Noto Serif", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f9fafa;
+  min-height: 94vh;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.header {
+  background-color: rgb(103, 169, 255);
+  margin-top: -30px;
+  margin-left: -20px;
+  margin-right: -10px;
+}
+
+.custNum {
+  margin-left: 30px;
+  padding: 10px;
+}
+
+.enquireBtn {
+
+  margin-top: 30px;
+  margin-left: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #7175ba;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.updateHeading {
+  text-align: center;
+  padding-top: 70px;
+  color: #333;
+}
+
+.enquireBtn:hover {
+  background-color: #555891;
+}
+
+.amendBtn {
+  color: white;
+  background-color: dodgerblue;
+  margin-top: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+}
+
+.amendBtn:hover {
+  color: dodgerblue;
+  background-color: white;
+  cursor: pointer;
+}
+
+label {
+
+  margin-bottom: 10px;
+  display: block;
+}
+
+.box {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+input {
+  width: 400px;
+  height: 20px;
+  font-size: 11px;
+}
+
+.value {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+select {
+  width: 400px;
+  font-size: 12px;
+  height: 20px;
+}
+
+.title {
+  font-size: 20px;
+  color: darkblue;
+  margin-bottom: 50px;
+}
+
+.required,
+textarea {
+  background-color: #bdd9ff;
+  border: none;
+  border-color: dodgerblue;
+  height: 20px;
+}
+
+
+.info {
+  margin-right: auto;
+  background-color: #f0f5f3;
+  border: 1px solid rgb(103, 169, 255);
+  padding: 10px;
+  box-shadow: gray 10px 10px 20px;
+  border-radius: 5px;
+  margin-left: auto;
+  width: 90%;
+}
+
+@keyframes bouncing-loader {
+  to {
+    opacity: 0.1;
+    transform: translate3d(0, -16px, 0);
+  }
+}
+
+.bouncing-loader {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 22%;
+}
+
+.bouncing-loader>div {
+  width: 16px;
+  height: 16px;
+  margin: 3rem 0.2rem;
+  background: dodgerblue;
+  border-radius: 50%;
+  animation: bouncing-loader 0.6s infinite alternate;
+}
+
+.bouncing-loader>div:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.bouncing-loader>div:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  height: 40px;
+}
+
+.permanentAddress {
+  padding-left: 50px;
+}
+
+.showPassBtn {
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.toggle-password {
+  float: right;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-top: -25px;
+}
+
+.logoutButton {
+  border: none;
+  background-color: transparent;
+}
+
+.enquireSearchDiv {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding-left: 35%;
+}
+
+.loader-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(245, 252, 255, 0.834);
+  z-index: 1000;
+}
+
+.spinner {
+  width: 64px;
+  height: 64px;
+  border: 8px solid;
+  border-color: dodgerblue transparent dodgerblue transparent;
+  border-radius: 50%;
+  animation: spin-anim 1.2s linear infinite;
+}
+
+@keyframes spin-anim {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.verify-button {
+  font-size: 12px;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #7175ba;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+
+.verify-button:hover {
+  background-color: #555891;
+}
+
+.requiredEditing {
+  border-color: red;
+}

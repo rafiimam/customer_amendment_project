@@ -1,0 +1,2578 @@
+[
+    {
+        "value": "001",
+        "text": "BANANI"
+    },
+    {
+        "value": "002",
+        "text": "CHACKBAZAR MODEL"
+    },
+    {
+        "value": "003",
+        "text": "KADOMTALI"
+    },
+    {
+        "value": "004",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "005",
+        "text": "RAMNA"
+    },
+    {
+        "value": "006",
+        "text": "RUPNAGAR"
+    },
+    {
+        "value": "007",
+        "text": "SHAHJAHANPUR"
+    },
+    {
+        "value": "008",
+        "text": "SHAHJALAL AIRPORT"
+    },
+    {
+        "value": "009",
+        "text": "TEJGAON"
+    },
+    {
+        "value": "010",
+        "text": "TEJGAON I/A"
+    },
+    {
+        "value": "011",
+        "text": "TURAG"
+    },
+    {
+        "value": "012",
+        "text": "UTTARA EAST"
+    },
+    {
+        "value": "013",
+        "text": "UTTARA WEST"
+    },
+    {
+        "value": "014",
+        "text": "VATARA"
+    },
+    {
+        "value": "015",
+        "text": "WARI"
+    },
+    {
+        "value": "016",
+        "text": "ADABOR"
+    },
+    {
+        "value": "017",
+        "text": "AIRPORT"
+    },
+    {
+        "value": "018",
+        "text": "ASHULIA"
+    },
+    {
+        "value": "019",
+        "text": "BADDA"
+    },
+    {
+        "value": "021",
+        "text": "BANGSHAL"
+    },
+    {
+        "value": "022",
+        "text": "CANTONMENT"
+    },
+    {
+        "value": "023",
+        "text": "CHALK BAZAR"
+    },
+    {
+        "value": "024",
+        "text": "DAKSHIN KERANIGANJ"
+    },
+    {
+        "value": "025",
+        "text": "DAKSHIN KHAN"
+    },
+    {
+        "value": "026",
+        "text": "DARUSSALAM"
+    },
+    {
+        "value": "027",
+        "text": "DEMRA"
+    },
+    {
+        "value": "028",
+        "text": "DHAKA RAILWAY"
+    },
+    {
+        "value": "029",
+        "text": "DHAMRAI"
+    },
+    {
+        "value": "030",
+        "text": "DHANMONDI"
+    },
+    {
+        "value": "031",
+        "text": "DOHAR"
+    },
+    {
+        "value": "032",
+        "text": "GANDARIA"
+    },
+    {
+        "value": "033",
+        "text": "GULSHAN"
+    },
+    {
+        "value": "034",
+        "text": "HAZARIBAGH"
+    },
+    {
+        "value": "035",
+        "text": "JATRABARI"
+    },
+    {
+        "value": "036",
+        "text": "KADOMTOLI"
+    },
+    {
+        "value": "037",
+        "text": "KAFRUL"
+    },
+    {
+        "value": "038",
+        "text": "KALABAGAN"
+    },
+    {
+        "value": "039",
+        "text": "KAMRANGIRCHAR"
+    },
+    {
+        "value": "040",
+        "text": "KERANIGANJ"
+    },
+    {
+        "value": "042",
+        "text": "KHILGAON"
+    },
+    {
+        "value": "043",
+        "text": "KHILKHET"
+    },
+    {
+        "value": "045",
+        "text": "LALBAGH"
+    },
+    {
+        "value": "047",
+        "text": "MIRPUR"
+    },
+    {
+        "value": "048",
+        "text": "MOHAMMADPUR"
+    },
+    {
+        "value": "049",
+        "text": "MOTIJHEEL"
+    },
+    {
+        "value": "050",
+        "text": "MUGDA"
+    },
+    {
+        "value": "051",
+        "text": "NAWABGANJ"
+    },
+    {
+        "value": "052",
+        "text": "NEW MARKET"
+    },
+    {
+        "value": "053",
+        "text": "PALLABI"
+    },
+    {
+        "value": "054",
+        "text": "PALTAN"
+    },
+    {
+        "value": "056",
+        "text": "RAMPURA"
+    },
+    {
+        "value": "057",
+        "text": "SABUJBAGH"
+    },
+    {
+        "value": "058",
+        "text": "SAVAR"
+    },
+    {
+        "value": "059",
+        "text": "SHAH ALI"
+    },
+    {
+        "value": "060",
+        "text": "SHAHBAGH"
+    },
+    {
+        "value": "061",
+        "text": "SHER-E-BANGLA NAGAR"
+    },
+    {
+        "value": "062",
+        "text": "SHYAMPUR"
+    },
+    {
+        "value": "063",
+        "text": "SOUTH KERANIGANJ"
+    },
+    {
+        "value": "064",
+        "text": "SUTRAPUR"
+    },
+    {
+        "value": "066",
+        "text": "TEJGAON INDUSTRIAL AREA"
+    },
+    {
+        "value": "068",
+        "text": "UTTAR KHAN"
+    },
+    {
+        "value": "069",
+        "text": "UTTARA"
+    },
+    {
+        "value": "070",
+        "text": "VASHANTEK"
+    },
+    {
+        "value": "071",
+        "text": "HATIRJHEEL"
+    },
+    {
+        "value": "072",
+        "text": "ALFADANGA"
+    },
+    {
+        "value": "073",
+        "text": "BHANGA"
+    },
+    {
+        "value": "074",
+        "text": "BOALMARI"
+    },
+    {
+        "value": "075",
+        "text": "CHAR"
+    },
+    {
+        "value": "076",
+        "text": "BHADRASAN"
+    },
+    {
+        "value": "077",
+        "text": "FARIDPUR"
+    },
+    {
+        "value": "078",
+        "text": "SADAR"
+    },
+    {
+        "value": "079",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "080",
+        "text": "MADHUKHALI"
+    },
+    {
+        "value": "081",
+        "text": "NAGARKANDA"
+    },
+    {
+        "value": "082",
+        "text": "SADARPUR"
+    },
+    {
+        "value": "083",
+        "text": "SALTHA"
+    },
+    {
+        "value": "084",
+        "text": "SUNDARPUR"
+    },
+    {
+        "value": "085",
+        "text": "GAZIPUR SADAR"
+    },
+    {
+        "value": "086",
+        "text": "JOYDEBPUR"
+    },
+    {
+        "value": "087",
+        "text": "KALIAKAIR"
+    },
+    {
+        "value": "088",
+        "text": "KALIGANJ"
+    },
+    {
+        "value": "089",
+        "text": "KAPASIA"
+    },
+    {
+        "value": "090",
+        "text": "SREEPUR"
+    },
+    {
+        "value": "091",
+        "text": "TONGI"
+    },
+    {
+        "value": "092",
+        "text": "GOPALGANJ SADAR"
+    },
+    {
+        "value": "093",
+        "text": "KASHIANI"
+    },
+    {
+        "value": "094",
+        "text": "KOTALIPARA"
+    },
+    {
+        "value": "095",
+        "text": "MUKSUDPUR"
+    },
+    {
+        "value": "096",
+        "text": "TUNGIPARA"
+    },
+    {
+        "value": "097",
+        "text": "AUSTAGRAM"
+    },
+    {
+        "value": "098",
+        "text": "BAJITPUR"
+    },
+    {
+        "value": "099",
+        "text": "BHAIRAB"
+    },
+    {
+        "value": "100",
+        "text": "HOSSAINPUR"
+    },
+    {
+        "value": "101",
+        "text": "ITNA"
+    },
+    {
+        "value": "102",
+        "text": "KARIMGANJ"
+    },
+    {
+        "value": "103",
+        "text": "KATIADI"
+    },
+    {
+        "value": "104",
+        "text": "KISHOREGANJ SADAR"
+    },
+    {
+        "value": "105",
+        "text": "KULIARCHAR"
+    },
+    {
+        "value": "106",
+        "text": "MITHAMAIN"
+    },
+    {
+        "value": "107",
+        "text": "NIKLI"
+    },
+    {
+        "value": "108",
+        "text": "PAKUNDIA"
+    },
+    {
+        "value": "109",
+        "text": "TARAIL"
+    },
+    {
+        "value": "110",
+        "text": "DASHAR"
+    },
+    {
+        "value": "111",
+        "text": "KALKINI"
+    },
+    {
+        "value": "112",
+        "text": "MADARIPUR SADAR"
+    },
+    {
+        "value": "113",
+        "text": "RAJOIR"
+    },
+    {
+        "value": "114",
+        "text": "SHIBCHAR"
+    },
+    {
+        "value": "115",
+        "text": "DAULATPUR"
+    },
+    {
+        "value": "116",
+        "text": "GHIOR"
+    },
+    {
+        "value": "117",
+        "text": "HARIRAMPUR"
+    },
+    {
+        "value": "118",
+        "text": "MANIKGANJ SADAR"
+    },
+    {
+        "value": "119",
+        "text": "SATURIA"
+    },
+    {
+        "value": "120",
+        "text": "SHIBALAYA"
+    },
+    {
+        "value": "121",
+        "text": "SINGAIR"
+    },
+    {
+        "value": "122",
+        "text": "GAZARIA"
+    },
+    {
+        "value": "123",
+        "text": "LOUHAJONG"
+    },
+    {
+        "value": "124",
+        "text": "MUNSHIGANJ SADAR"
+    },
+    {
+        "value": "125",
+        "text": "SIRAJDIKHAN"
+    },
+    {
+        "value": "126",
+        "text": "SREENAGAR"
+    },
+    {
+        "value": "127",
+        "text": "TONGIBARI"
+    },
+    {
+        "value": "128",
+        "text": "ARAIHAZAR"
+    },
+    {
+        "value": "129",
+        "text": "BANDAR"
+    },
+    {
+        "value": "130",
+        "text": "FATULLAH"
+    },
+    {
+        "value": "131",
+        "text": "NARAYANGANJ SADAR"
+    },
+    {
+        "value": "132",
+        "text": "RUPGANJ"
+    },
+    {
+        "value": "133",
+        "text": "SIDDHIRGANJ"
+    },
+    {
+        "value": "134",
+        "text": "SONARGAON"
+    },
+    {
+        "value": "135",
+        "text": "BELABO"
+    },
+    {
+        "value": "136",
+        "text": "MADHABDI"
+    },
+    {
+        "value": "137",
+        "text": "MONOHARDI"
+    },
+    {
+        "value": "138",
+        "text": "NARSINGDI SADAR"
+    },
+    {
+        "value": "139",
+        "text": "PALASH"
+    },
+    {
+        "value": "140",
+        "text": "RAIPURA"
+    },
+    {
+        "value": "141",
+        "text": "SHIBPUR"
+    },
+    {
+        "value": "142",
+        "text": "BALIAKANDI"
+    },
+    {
+        "value": "143",
+        "text": "GOALANDA"
+    },
+    {
+        "value": "144",
+        "text": "KALUKHALI"
+    },
+    {
+        "value": "145",
+        "text": "PANGSHA"
+    },
+    {
+        "value": "146",
+        "text": "RAJBARI SADAR"
+    },
+    {
+        "value": "147",
+        "text": "BHEDARGANJ"
+    },
+    {
+        "value": "148",
+        "text": "DAMUDYA"
+    },
+    {
+        "value": "149",
+        "text": "GOSAIRHAT"
+    },
+    {
+        "value": "150",
+        "text": "JAJIRA"
+    },
+    {
+        "value": "151",
+        "text": "NARIA"
+    },
+    {
+        "value": "152",
+        "text": "PALONG"
+    },
+    {
+        "value": "153",
+        "text": "SAKHIPUR"
+    },
+    {
+        "value": "154",
+        "text": "SHARIATPUR SADAR"
+    },
+    {
+        "value": "155",
+        "text": "BANGABANDU EAST PS"
+    },
+    {
+        "value": "156",
+        "text": "BASAIL"
+    },
+    {
+        "value": "157",
+        "text": "BHUAPUR"
+    },
+    {
+        "value": "158",
+        "text": "DELDUAR"
+    },
+    {
+        "value": "159",
+        "text": "DHANBARI"
+    },
+    {
+        "value": "160",
+        "text": "GHATAIL"
+    },
+    {
+        "value": "161",
+        "text": "GOPALPUR"
+    },
+    {
+        "value": "162",
+        "text": "JAMUNA BRIDGE (EAST)"
+    },
+    {
+        "value": "163",
+        "text": "KALIHATI"
+    },
+    {
+        "value": "164",
+        "text": "MADHUPUR"
+    },
+    {
+        "value": "165",
+        "text": "MIRZAPUR"
+    },
+    {
+        "value": "166",
+        "text": "NAGARPUR"
+    },
+    {
+        "value": "167",
+        "text": "SAKHIPUR"
+    },
+    {
+        "value": "168",
+        "text": "TANGAIL SADAR"
+    },
+    {
+        "value": "169",
+        "text": "ALIKADAM"
+    },
+    {
+        "value": "170",
+        "text": "BAISHARI"
+    },
+    {
+        "value": "171",
+        "text": "BANDARBAN SADAR"
+    },
+    {
+        "value": "172",
+        "text": "LAMA"
+    },
+    {
+        "value": "173",
+        "text": "NAIKHONGCHHARI"
+    },
+    {
+        "value": "177",
+        "text": "AKHAURA"
+    },
+    {
+        "value": "174",
+        "text": "ROWANGCHHARI"
+    },
+    {
+        "value": "175",
+        "text": "RUMA"
+    },
+    {
+        "value": "176",
+        "text": "THANCHI"
+    },
+    {
+        "value": "178",
+        "text": "ASHUGANJ"
+    },
+    {
+        "value": "179",
+        "text": "BANCHHARAMPUR"
+    },
+    {
+        "value": "180",
+        "text": "BIJOYNAGAR"
+    },
+    {
+        "value": "181",
+        "text": "BRAHMANBARIA SADAR"
+    },
+    {
+        "value": "182",
+        "text": "KASBA"
+    },
+    {
+        "value": "183",
+        "text": "NABINAGAR"
+    },
+    {
+        "value": "184",
+        "text": "NASIR NAGAR"
+    },
+    {
+        "value": "185",
+        "text": "SARAIL"
+    },
+    {
+        "value": "186",
+        "text": "CHANDPUR SADAR"
+    },
+    {
+        "value": "187",
+        "text": "DAKSHIN MATLAB"
+    },
+    {
+        "value": "188",
+        "text": "FARIDGANJ"
+    },
+    {
+        "value": "189",
+        "text": "HAIM CHAR"
+    },
+    {
+        "value": "190",
+        "text": "HAZIGANJ"
+    },
+    {
+        "value": "191",
+        "text": "KACHUA"
+    },
+    {
+        "value": "192",
+        "text": "SHAHRASTI"
+    },
+    {
+        "value": "193",
+        "text": "UTTAR MATLAB"
+    },
+    {
+        "value": "194",
+        "text": "AKBERSHAH"
+    },
+    {
+        "value": "195",
+        "text": "ANWARA"
+    },
+    {
+        "value": "196",
+        "text": "BAKALIA"
+    },
+    {
+        "value": "197",
+        "text": "BANDAR"
+    },
+    {
+        "value": "198",
+        "text": "BANSHKHALI"
+    },
+    {
+        "value": "199",
+        "text": "BAYJID BOSTAMI"
+    },
+    {
+        "value": "200",
+        "text": "BHUJPUR"
+    },
+    {
+        "value": "201",
+        "text": "BOALKHALI"
+    },
+    {
+        "value": "202",
+        "text": "CHANDANAISH"
+    },
+    {
+        "value": "203",
+        "text": "CHANDGAON"
+    },
+    {
+        "value": "204",
+        "text": "CHAWKBAZAR"
+    },
+    {
+        "value": "205",
+        "text": "CHITTAGONG EPZ"
+    },
+    {
+        "value": "206",
+        "text": "CHITTAGONG PORT"
+    },
+    {
+        "value": "207",
+        "text": "DOUBLE MOORING"
+    },
+    {
+        "value": "208",
+        "text": "FATIKCHHARI"
+    },
+    {
+        "value": "209",
+        "text": "HALISHAHAR"
+    },
+    {
+        "value": "210",
+        "text": "HATHAZARI"
+    },
+    {
+        "value": "211",
+        "text": "JORAGANJ"
+    },
+    {
+        "value": "212",
+        "text": "KARNAFULI"
+    },
+    {
+        "value": "213",
+        "text": "KHULSHI"
+    },
+    {
+        "value": "214",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "215",
+        "text": "LOHAGARA"
+    },
+    {
+        "value": "216",
+        "text": "MIRSHARAI"
+    },
+    {
+        "value": "217",
+        "text": "PAHARTALI"
+    },
+    {
+        "value": "218",
+        "text": "PANCHLAISH"
+    },
+    {
+        "value": "219",
+        "text": "PATENGA"
+    },
+    {
+        "value": "220",
+        "text": "PATIYA"
+    },
+    {
+        "value": "221",
+        "text": "RANGUNIA"
+    },
+    {
+        "value": "222",
+        "text": "RAOZAN"
+    },
+    {
+        "value": "223",
+        "text": "SADARGHAT"
+    },
+    {
+        "value": "224",
+        "text": "SANDWIP"
+    },
+    {
+        "value": "225",
+        "text": "SATKANIA"
+    },
+    {
+        "value": "226",
+        "text": "SITAKUNDA"
+    },
+    {
+        "value": "227",
+        "text": "BANGORA BAZAR"
+    },
+    {
+        "value": "231",
+        "text": "CHANDINA"
+    },
+    {
+        "value": "228",
+        "text": "BARURA"
+    },
+    {
+        "value": "229",
+        "text": "BRAHMANPARA"
+    },
+    {
+        "value": "230",
+        "text": "BURICHONG"
+    },
+    {
+        "value": "232",
+        "text": "CHAUDDAGRAM"
+    },
+    {
+        "value": "233",
+        "text": "COMILLA ADARSHA SADAR"
+    },
+    {
+        "value": "234",
+        "text": "COMILLA SADAR DAKSHIN"
+    },
+    {
+        "value": "235",
+        "text": "DAUDKANDI"
+    },
+    {
+        "value": "236",
+        "text": "DEBIDWAR"
+    },
+    {
+        "value": "237",
+        "text": "HOMNA"
+    },
+    {
+        "value": "238",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "239",
+        "text": "LAKSAM"
+    },
+    {
+        "value": "240",
+        "text": "MANOHARGANJ"
+    },
+    {
+        "value": "241",
+        "text": "MEGHNA"
+    },
+    {
+        "value": "242",
+        "text": "MURADNAGAR"
+    },
+    {
+        "value": "243",
+        "text": "NANGALKOT"
+    },
+    {
+        "value": "244",
+        "text": "TITAS"
+    },
+    {
+        "value": "245",
+        "text": "CHAKARIA"
+    },
+    {
+        "value": "246",
+        "text": "COX'S BAZAR SADAR"
+    },
+    {
+        "value": "247",
+        "text": "KUTUBDIA"
+    },
+    {
+        "value": "248",
+        "text": "MAHESHKHALI"
+    },
+    {
+        "value": "249",
+        "text": "PEKUA"
+    },
+    {
+        "value": "250",
+        "text": "RAMU"
+    },
+    {
+        "value": "251",
+        "text": "TEKNAF"
+    },
+    {
+        "value": "252",
+        "text": "UKHIA"
+    },
+    {
+        "value": "253",
+        "text": "CHHAGALNAIYA"
+    },
+    {
+        "value": "254",
+        "text": "DAGONBHUIYAN"
+    },
+    {
+        "value": "255",
+        "text": "FENI SADAR"
+    },
+    {
+        "value": "256",
+        "text": "FULGAZI"
+    },
+    {
+        "value": "257",
+        "text": "PARSHURAM"
+    },
+    {
+        "value": "258",
+        "text": "SONAGAZI"
+    },
+    {
+        "value": "259",
+        "text": "DIGHINALA"
+    },
+    {
+        "value": "260",
+        "text": "GUIMARA"
+    },
+    {
+        "value": "261",
+        "text": "KHAGRACHHARI SADAR"
+    },
+    {
+        "value": "262",
+        "text": "LAKSHMICHHARI"
+    },
+    {
+        "value": "263",
+        "text": "MAHALCHHARI"
+    },
+    {
+        "value": "264",
+        "text": "MANIKCHHARI"
+    },
+    {
+        "value": "265",
+        "text": "MATIRANGA"
+    },
+    {
+        "value": "266",
+        "text": "PANCHHARI"
+    },
+    {
+        "value": "267",
+        "text": "RAMGARH"
+    },
+    {
+        "value": "268",
+        "text": "KAMALNAGAR"
+    },
+    {
+        "value": "269",
+        "text": "LAKSHMIPUR SADAR"
+    },
+    {
+        "value": "270",
+        "text": "RAIPUR"
+    },
+    {
+        "value": "271",
+        "text": "RAMGANJ"
+    },
+    {
+        "value": "272",
+        "text": "RAMGATI"
+    },
+    {
+        "value": "273",
+        "text": "BEGUMGANJ"
+    },
+    {
+        "value": "274",
+        "text": "CHAR JABBER"
+    },
+    {
+        "value": "275",
+        "text": "CHATKHIL"
+    },
+    {
+        "value": "276",
+        "text": "COMPANIGANJ"
+    },
+    {
+        "value": "277",
+        "text": "HATIYA"
+    },
+    {
+        "value": "278",
+        "text": "KABIRHAT"
+    },
+    {
+        "value": "279",
+        "text": "NOAKHALI SADAR"
+    },
+    {
+        "value": "280",
+        "text": "SENBAGH"
+    },
+    {
+        "value": "281",
+        "text": "SONAIMURI"
+    },
+    {
+        "value": "282",
+        "text": "SUBARNACHAR"
+    },
+    {
+        "value": "283",
+        "text": "SUDHARAM"
+    },
+    {
+        "value": "284",
+        "text": "BAGHAICHHARI"
+    },
+    {
+        "value": "285",
+        "text": "BARKAL"
+    },
+    {
+        "value": "286",
+        "text": "BELAICHHARI"
+    },
+    {
+        "value": "287",
+        "text": " BETBUNIA"
+    },
+    {
+        "value": "288",
+        "text": "CHANDORGHONA"
+    },
+    {
+        "value": "289",
+        "text": "FARUA"
+    },
+    {
+        "value": "290",
+        "text": "JURAICHHARI"
+    },
+    {
+        "value": "291",
+        "text": "KAPTAI"
+    },
+    {
+        "value": "292",
+        "text": "KAWKHALI"
+    },
+    {
+        "value": "293",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "294",
+        "text": "LANGADU"
+    },
+    {
+        "value": "295",
+        "text": "NANIARCHAR"
+    },
+    {
+        "value": "296",
+        "text": "RAJASTHALI"
+    },
+    {
+        "value": "297",
+        "text": "RANGAMATI SADAR"
+    },
+    {
+        "value": "298",
+        "text": "SAJEK"
+    },
+    {
+        "value": "299",
+        "text": "AMTALI"
+    },
+    {
+        "value": "300",
+        "text": "BAMNA"
+    },
+    {
+        "value": "301",
+        "text": "BARGUNA SADAR"
+    },
+    {
+        "value": "302",
+        "text": "BETAGI"
+    },
+    {
+        "value": "303",
+        "text": "PATHARGHATA"
+    },
+    {
+        "value": "304",
+        "text": "TALTALI"
+    },
+    {
+        "value": "305",
+        "text": "AGAILJHARA"
+    },
+    {
+        "value": "306",
+        "text": "AIRPORT"
+    },
+    {
+        "value": "307",
+        "text": "BABUGANJ"
+    },
+    {
+        "value": "308",
+        "text": "BAKERGANJ"
+    },
+    {
+        "value": "309",
+        "text": "BANARI PARA"
+    },
+    {
+        "value": "310",
+        "text": "BANDAR"
+    },
+    {
+        "value": "311",
+        "text": "BARISAL SADAR"
+    },
+    {
+        "value": "312",
+        "text": "BIMAN BANDAR"
+    },
+    {
+        "value": "313",
+        "text": "GOURNADI"
+    },
+    {
+        "value": "314",
+        "text": "HIZLA"
+    },
+    {
+        "value": "315",
+        "text": "KAJIR HAT"
+    },
+    {
+        "value": "316",
+        "text": "KAWNIA"
+    },
+    {
+        "value": "317",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "318",
+        "text": "MEHENDIGANJ"
+    },
+    {
+        "value": "319",
+        "text": "MULADI"
+    },
+    {
+        "value": "320",
+        "text": "WAZIRPUR"
+    },
+    {
+        "value": "321",
+        "text": "DAKSHINAICHA"
+    },
+    {
+        "value": "322",
+        "text": " SHASIBUSSION"
+    },
+    {
+        "value": "323",
+        "text": "BHOLA SADAR"
+    },
+    {
+        "value": "324",
+        "text": "BURHANUDDIN"
+    },
+    {
+        "value": "325",
+        "text": "CHAR FASSON"
+    },
+    {
+        "value": "326",
+        "text": "DAULAT KHAN"
+    },
+    {
+        "value": "328",
+        "text": "LALMOHAN"
+    },
+    {
+        "value": "329",
+        "text": "MONPURA"
+    },
+    {
+        "value": "330",
+        "text": "TAZUMUDDIN"
+    },
+    {
+        "value": "331",
+        "text": "JHALAKATI SADAR"
+    },
+    {
+        "value": "332",
+        "text": "KATHALIA"
+    },
+    {
+        "value": "333",
+        "text": "NALCHHITI"
+    },
+    {
+        "value": "334",
+        "text": "NALCHITY"
+    },
+    {
+        "value": "335",
+        "text": "RAJAPUR"
+    },
+    {
+        "value": "336",
+        "text": "BAUPHAL"
+    },
+    {
+        "value": "337",
+        "text": "DASHMINA"
+    },
+    {
+        "value": "338",
+        "text": "DUMKI"
+    },
+    {
+        "value": "339",
+        "text": "GALACHIPA"
+    },
+    {
+        "value": "340",
+        "text": "KALAPARA"
+    },
+    {
+        "value": "341",
+        "text": "MIRZAGANJ"
+    },
+    {
+        "value": "342",
+        "text": "MOHIPUR"
+    },
+    {
+        "value": "343",
+        "text": "PATUAKHALI SADAR"
+    },
+    {
+        "value": "344",
+        "text": "RANGABALI"
+    },
+    {
+        "value": "345",
+        "text": "BHANDARIA"
+    },
+    {
+        "value": "346",
+        "text": "INDURKANI"
+    },
+    {
+        "value": "350",
+        "text": "NESARABAD (SWARUPKATI)"
+    },
+    {
+        "value": "347",
+        "text": "KAWKHALI"
+    },
+    {
+        "value": "348",
+        "text": "MATHBARIA"
+    },
+    {
+        "value": "349",
+        "text": "NAZIRPUR"
+    },
+    {
+        "value": "351",
+        "text": "PIROJPUR SADAR"
+    },
+    {
+        "value": "352",
+        "text": "ZIANAGAR"
+    },
+    {
+        "value": "353",
+        "text": "BAGERHAT SADAR"
+    },
+    {
+        "value": "354",
+        "text": "CHITALMARI"
+    },
+    {
+        "value": "355",
+        "text": "FAKIRHAT"
+    },
+    {
+        "value": "356",
+        "text": "KACHUA"
+    },
+    {
+        "value": "357",
+        "text": "MOLLAHAT"
+    },
+    {
+        "value": "358",
+        "text": "MONGLA"
+    },
+    {
+        "value": "359",
+        "text": "MORRELGANJ"
+    },
+    {
+        "value": "360",
+        "text": "RAMPAL"
+    },
+    {
+        "value": "361",
+        "text": "SARANKHOLA"
+    },
+    {
+        "value": "362",
+        "text": "ALAMDANGA"
+    },
+    {
+        "value": "363",
+        "text": "CHUADANGA SADAR"
+    },
+    {
+        "value": "364",
+        "text": "DAMURHUDA"
+    },
+    {
+        "value": "365",
+        "text": "JIBAN NAGAR"
+    },
+    {
+        "value": "366",
+        "text": "ABHAYNAGAR"
+    },
+    {
+        "value": "367",
+        "text": "BAGERPARA"
+    },
+    {
+        "value": "368",
+        "text": "BENAPOLE"
+    },
+    {
+        "value": "369",
+        "text": "BENAPOLE PORT"
+    },
+    {
+        "value": "370",
+        "text": "CHAUGACHHA"
+    },
+    {
+        "value": "371",
+        "text": "JHIKARGACHHA"
+    },
+    {
+        "value": "372",
+        "text": "KESHABPUR"
+    },
+    {
+        "value": "373",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "374",
+        "text": "MANIRAMPUR"
+    },
+    {
+        "value": "375",
+        "text": "SHARSHA"
+    },
+    {
+        "value": "376",
+        "text": "HARINAKUNDA"
+    },
+    {
+        "value": "377",
+        "text": "JHENAIDAH SADAR"
+    },
+    {
+        "value": "378",
+        "text": "KALIGANJ"
+    },
+    {
+        "value": "379",
+        "text": "KOTCHANDPUR"
+    },
+    {
+        "value": "380",
+        "text": "MAHESHPUR"
+    },
+    {
+        "value": "381",
+        "text": "SHAILKUPA"
+    },
+    {
+        "value": "382",
+        "text": "ARONGHATA"
+    },
+    {
+        "value": "383",
+        "text": "BATIAGHATA"
+    },
+    {
+        "value": "384",
+        "text": "DACOPE"
+    },
+    {
+        "value": "385",
+        "text": "DAULATPUR"
+    },
+    {
+        "value": "386",
+        "text": "DIGHALIA"
+    },
+    {
+        "value": "387",
+        "text": "DUMURIA"
+    },
+    {
+        "value": "388",
+        "text": "HARINTANA"
+    },
+    {
+        "value": "389",
+        "text": "KHALISHPUR"
+    },
+    {
+        "value": "390",
+        "text": "KHAN JAHAN ALI"
+    },
+    {
+        "value": "391",
+        "text": "KHULNA SADAR"
+    },
+    {
+        "value": "392",
+        "text": "KOYRA"
+    },
+    {
+        "value": "393",
+        "text": "LABANCHORA"
+    },
+    {
+        "value": "394",
+        "text": "PAIKGACHHA"
+    },
+    {
+        "value": "395",
+        "text": "PHULTALA"
+    },
+    {
+        "value": "396",
+        "text": "RUPSA"
+    },
+    {
+        "value": "397",
+        "text": "SONADANGA"
+    },
+    {
+        "value": "398",
+        "text": "TEROKHADA"
+    },
+    {
+        "value": "399",
+        "text": "BHERAMARA"
+    },
+    {
+        "value": "400",
+        "text": "DAULATPUR"
+    },
+    {
+        "value": "401",
+        "text": "ISLAMIC UNIVERSITY"
+    },
+    {
+        "value": "405",
+        "text": "MIRPUR"
+    },
+    {
+        "value": "402",
+        "text": "KHOKSA"
+    },
+    {
+        "value": "403",
+        "text": "KUMARKHALI"
+    },
+    {
+        "value": "404",
+        "text": "KUSHTIA SADAR"
+    },
+    {
+        "value": "406",
+        "text": "MAGURA SADAR"
+    },
+    {
+        "value": "407",
+        "text": "MOHAMMADPUR"
+    },
+    {
+        "value": "408",
+        "text": "SHALIKHA"
+    },
+    {
+        "value": "409",
+        "text": "SREEPUR"
+    },
+    {
+        "value": "410",
+        "text": "GANGNI"
+    },
+    {
+        "value": "411",
+        "text": "MEHERPUR SADAR"
+    },
+    {
+        "value": "412",
+        "text": "MUJIBNAGAR"
+    },
+    {
+        "value": "413",
+        "text": "KALIA"
+    },
+    {
+        "value": "414",
+        "text": "LOHAGARA"
+    },
+    {
+        "value": "415",
+        "text": "NARAGATHI"
+    },
+    {
+        "value": "416",
+        "text": "NARAIL SADAR"
+    },
+    {
+        "value": "417",
+        "text": "ASHASHUNI"
+    },
+    {
+        "value": "418",
+        "text": "DEBHATA"
+    },
+    {
+        "value": "419",
+        "text": "KALAROA"
+    },
+    {
+        "value": "420",
+        "text": "KALIGANJ"
+    },
+    {
+        "value": "421",
+        "text": "PATKELGHATA"
+    },
+    {
+        "value": "422",
+        "text": "SATKHIRA SADAR"
+    },
+    {
+        "value": "423",
+        "text": "SHYAMNAGAR"
+    },
+    {
+        "value": "424",
+        "text": "TALA"
+    },
+    {
+        "value": "428",
+        "text": "CHUNARUGHAT"
+    },
+    {
+        "value": "425",
+        "text": "AJMIRIGANJ"
+    },
+    {
+        "value": "426",
+        "text": "BAHUBAL"
+    },
+    {
+        "value": "427",
+        "text": "BANIYACHONG"
+    },
+    {
+        "value": "429",
+        "text": "HABIGANJ SADAR"
+    },
+    {
+        "value": "430",
+        "text": "LAKHAI"
+    },
+    {
+        "value": "431",
+        "text": "MADHABPUR"
+    },
+    {
+        "value": "432",
+        "text": "NABIGANJ"
+    },
+    {
+        "value": "433",
+        "text": "SHAYESTAGANJ"
+    },
+    {
+        "value": "434",
+        "text": "BARLEKHA"
+    },
+    {
+        "value": "435",
+        "text": "JURI"
+    },
+    {
+        "value": "436",
+        "text": "KAMALGANJ"
+    },
+    {
+        "value": "437",
+        "text": "KULAURA"
+    },
+    {
+        "value": "438",
+        "text": "MOULVIBAZAR SADAR"
+    },
+    {
+        "value": "439",
+        "text": "RAJNAGAR"
+    },
+    {
+        "value": "440",
+        "text": "SREEMANGAL"
+    },
+    {
+        "value": "441",
+        "text": "BISHWAMBHARPUR"
+    },
+    {
+        "value": "442",
+        "text": "CHHATAK"
+    },
+    {
+        "value": "443",
+        "text": "DAKSHIN SUNAMGANJ"
+    },
+    {
+        "value": "444",
+        "text": "DERAI"
+    },
+    {
+        "value": "445",
+        "text": "DHARAMPASHA"
+    },
+    {
+        "value": "446",
+        "text": "DOWARABAZAR"
+    },
+    {
+        "value": "447",
+        "text": "JAGANNATHPUR"
+    },
+    {
+        "value": "451",
+        "text": "SUNAMGANJ SADAR"
+    },
+    {
+        "value": "448",
+        "text": "JAMALGANJ"
+    },
+    {
+        "value": "449",
+        "text": "MADAIANAGAR"
+    },
+    {
+        "value": "450",
+        "text": "SULLAH"
+    },
+    {
+        "value": "452",
+        "text": "TAHIRPUR"
+    },
+    {
+        "value": "453",
+        "text": "AIRPORT"
+    },
+    {
+        "value": "454",
+        "text": " JALALABAD"
+    },
+    {
+        "value": "455",
+        "text": " MUGLABAZAR"
+    },
+    {
+        "value": "456",
+        "text": " SHAHPORAN"
+    },
+    {
+        "value": "458",
+        "text": "BALAGANJ"
+    },
+    {
+        "value": "459",
+        "text": "BEANIBAZAR"
+    },
+    {
+        "value": "460",
+        "text": "BISHWANATH"
+    },
+    {
+        "value": "461",
+        "text": "COMPANIGANJ"
+    },
+    {
+        "value": "462",
+        "text": "DAKSHIN SURMA"
+    },
+    {
+        "value": "463",
+        "text": "FENCHUGANJ"
+    },
+    {
+        "value": "464",
+        "text": "GOLAPGANJ"
+    },
+    {
+        "value": "465",
+        "text": "GOWAINGHAT"
+    },
+    {
+        "value": "466",
+        "text": "JAINTAPUR"
+    },
+    {
+        "value": "468",
+        "text": "KANAIGHAT"
+    },
+    {
+        "value": "469",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "470",
+        "text": "MODDHO NAGAR"
+    },
+    {
+        "value": "471",
+        "text": "MOGLABAZAR"
+    },
+    {
+        "value": "472",
+        "text": "OSMANI NAGAR"
+    },
+    {
+        "value": "473",
+        "text": "SHAHPARAN(R)"
+    },
+    {
+        "value": "474",
+        "text": "SYLHET SADAR"
+    },
+    {
+        "value": "475",
+        "text": "ZAKIGANJ"
+    },
+    {
+        "value": "476",
+        "text": "ADAMDIGHI"
+    },
+    {
+        "value": "477",
+        "text": "BOGRA SADAR"
+    },
+    {
+        "value": "478",
+        "text": "DHUNAT"
+    },
+    {
+        "value": "482",
+        "text": "MAJIRA"
+    },
+    {
+        "value": "479",
+        "text": "DHUPCHANCHIA"
+    },
+    {
+        "value": "480",
+        "text": "GABTALI"
+    },
+    {
+        "value": "481",
+        "text": "KAHALOO"
+    },
+    {
+        "value": "483",
+        "text": "NANDIGRAM"
+    },
+    {
+        "value": "484",
+        "text": "SARIAKANDI"
+    },
+    {
+        "value": "485",
+        "text": "SHAJAHANPUR"
+    },
+    {
+        "value": "486",
+        "text": "SHERPUR"
+    },
+    {
+        "value": "487",
+        "text": "SHIBGANJ"
+    },
+    {
+        "value": "488",
+        "text": "SONATALA"
+    },
+    {
+        "value": "489",
+        "text": "BHOLAHAT"
+    },
+    {
+        "value": "490",
+        "text": "CHAPAINAWABGANJ SADAR"
+    },
+    {
+        "value": "491",
+        "text": "GOMASTAPUR"
+    },
+    {
+        "value": "492",
+        "text": "NACHOLE"
+    },
+    {
+        "value": "493",
+        "text": "SHIBGANJ"
+    },
+    {
+        "value": "494",
+        "text": "AKKELPUR"
+    },
+    {
+        "value": "495",
+        "text": "JOYPURHAT SADAR"
+    },
+    {
+        "value": "496",
+        "text": "KALAI"
+    },
+    {
+        "value": "497",
+        "text": "KHETLAL"
+    },
+    {
+        "value": "498",
+        "text": "PANCHBIBI"
+    },
+    {
+        "value": "499",
+        "text": "ATRAI"
+    },
+    {
+        "value": "500",
+        "text": "BADALGACHHI"
+    },
+    {
+        "value": "501",
+        "text": "DHAMOIRHAT"
+    },
+    {
+        "value": "502",
+        "text": "MANDA"
+    },
+    {
+        "value": "503",
+        "text": "MOHADEVPUR"
+    },
+    {
+        "value": "504",
+        "text": "NAOGAON SADAR"
+    },
+    {
+        "value": "505",
+        "text": "NIAMATPUR"
+    },
+    {
+        "value": "506",
+        "text": "PATNITALA"
+    },
+    {
+        "value": "507",
+        "text": "PORSHA"
+    },
+    {
+        "value": "508",
+        "text": "RANINAGAR"
+    },
+    {
+        "value": "509",
+        "text": "SAPAHAR"
+    },
+    {
+        "value": "510",
+        "text": "BAGATIPARA"
+    },
+    {
+        "value": "511",
+        "text": "BORAIGRAM"
+    },
+    {
+        "value": "515",
+        "text": "NOLDANGA"
+    },
+    {
+        "value": "512",
+        "text": "GURUDASPUR"
+    },
+    {
+        "value": "513",
+        "text": "LALPUR"
+    },
+    {
+        "value": "514",
+        "text": "NATORE SADAR"
+    },
+    {
+        "value": "516",
+        "text": "SINGRA"
+    },
+    {
+        "value": "517",
+        "text": "AMINPUR"
+    },
+    {
+        "value": "518",
+        "text": "ATAIKULA"
+    },
+    {
+        "value": "519",
+        "text": "ATGHARIA"
+    },
+    {
+        "value": "520",
+        "text": "BANGURA"
+    },
+    {
+        "value": "521",
+        "text": "BERA"
+    },
+    {
+        "value": "522",
+        "text": "BHANGURA"
+    },
+    {
+        "value": "523",
+        "text": "CHATMOHAR"
+    },
+    {
+        "value": "524",
+        "text": "FARIDPUR"
+    },
+    {
+        "value": "525",
+        "text": "ISHWARDI"
+    },
+    {
+        "value": "526",
+        "text": "PABNA SADAR"
+    },
+    {
+        "value": "527",
+        "text": "SANTHIA"
+    },
+    {
+        "value": "528",
+        "text": "SUJANAGAR"
+    },
+    {
+        "value": "529",
+        "text": "BAGHA"
+    },
+    {
+        "value": "530",
+        "text": "BAGMARA"
+    },
+    {
+        "value": "531",
+        "text": "BOALIA"
+    },
+    {
+        "value": "532",
+        "text": "CHARGHAT"
+    },
+    {
+        "value": "533",
+        "text": "DURGAPUR"
+    },
+    {
+        "value": "534",
+        "text": "GODAGARI"
+    },
+    {
+        "value": "535",
+        "text": "MOHANPUR"
+    },
+    {
+        "value": "536",
+        "text": "MOTIHAR"
+    },
+    {
+        "value": "537",
+        "text": "PABA"
+    },
+    {
+        "value": "538",
+        "text": "PUTHIA"
+    },
+    {
+        "value": "539",
+        "text": "RAJPARA"
+    },
+    {
+        "value": "540",
+        "text": "SHAH MAKHDUM"
+    },
+    {
+        "value": "541",
+        "text": "TANORE"
+    },
+    {
+        "value": "542",
+        "text": "BANGABANDHU BRIDGE WEST"
+    },
+    {
+        "value": "543",
+        "text": "BELKUCHI"
+    },
+    {
+        "value": "544",
+        "text": "CHAUHALI"
+    },
+    {
+        "value": "545",
+        "text": "ENAYETPUR"
+    },
+    {
+        "value": "546",
+        "text": "KAMARKANDA"
+    },
+    {
+        "value": "547",
+        "text": "KAZIPUR"
+    },
+    {
+        "value": "548",
+        "text": "RAIGANJ"
+    },
+    {
+        "value": "549",
+        "text": "SALANGA"
+    },
+    {
+        "value": "550",
+        "text": "SHAHJADPUR"
+    },
+    {
+        "value": "551",
+        "text": "SIRAJGANJ SADAR"
+    },
+    {
+        "value": "552",
+        "text": "TARASH"
+    },
+    {
+        "value": "556",
+        "text": "BIRGANJ"
+    },
+    {
+        "value": "553",
+        "text": "ULLAPARA"
+    },
+    {
+        "value": "554",
+        "text": "BIRAL"
+    },
+    {
+        "value": "555",
+        "text": "BIRAMPUR"
+    },
+    {
+        "value": "557",
+        "text": "BOCHAGANJ"
+    },
+    {
+        "value": "558",
+        "text": "CHIRIRBANDAR"
+    },
+    {
+        "value": "559",
+        "text": "DINAJPUR SADAR"
+    },
+    {
+        "value": "560",
+        "text": "GHORAGHAT"
+    },
+    {
+        "value": "561",
+        "text": "HAKIMPUR"
+    },
+    {
+        "value": "562",
+        "text": "KAHAROLE"
+    },
+    {
+        "value": "563",
+        "text": "KHANSAMA"
+    },
+    {
+        "value": "564",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "565",
+        "text": "NAWABGANJ"
+    },
+    {
+        "value": "566",
+        "text": "PARBATIPUR"
+    },
+    {
+        "value": "567",
+        "text": "PHULBARI"
+    },
+    {
+        "value": "568",
+        "text": "FULCHHARI"
+    },
+    {
+        "value": "569",
+        "text": "GAIBANDHA SADAR"
+    },
+    {
+        "value": "570",
+        "text": "GOBINDAGANJ"
+    },
+    {
+        "value": "571",
+        "text": "PALASHBARI"
+    },
+    {
+        "value": "572",
+        "text": "SADULLAPUR"
+    },
+    {
+        "value": "573",
+        "text": "SAGHATA"
+    },
+    {
+        "value": "574",
+        "text": "SUNDARGANJ"
+    },
+    {
+        "value": "575",
+        "text": "BHURUNGAMARI"
+    },
+    {
+        "value": "576",
+        "text": "CHAR RAJIBPUR"
+    },
+    {
+        "value": "577",
+        "text": "CHILMARI"
+    },
+    {
+        "value": "578",
+        "text": "DUSMARA"
+    },
+    {
+        "value": "579",
+        "text": "KACHAKATA"
+    },
+    {
+        "value": "580",
+        "text": "KURIGRAM SADAR"
+    },
+    {
+        "value": "581",
+        "text": "NAGESHWARI"
+    },
+    {
+        "value": "582",
+        "text": "PHULBARI"
+    },
+    {
+        "value": "583",
+        "text": "RAJARHAT"
+    },
+    {
+        "value": "584",
+        "text": "ROWMARI"
+    },
+    {
+        "value": "585",
+        "text": "ULIPUR"
+    },
+    {
+        "value": "586",
+        "text": "ADITMARI"
+    },
+    {
+        "value": "587",
+        "text": "HATIBANDHA"
+    },
+    {
+        "value": "588",
+        "text": "KALIGANJ"
+    },
+    {
+        "value": "589",
+        "text": "LALMONIRHAT SADAR"
+    },
+    {
+        "value": "590",
+        "text": "PATGRAM"
+    },
+    {
+        "value": "591",
+        "text": "DIMLA"
+    },
+    {
+        "value": "592",
+        "text": "DOMAR"
+    },
+    {
+        "value": "593",
+        "text": "JALDHAKA"
+    },
+    {
+        "value": "594",
+        "text": "KISHOREGANJ"
+    },
+    {
+        "value": "595",
+        "text": "NILPHAMARI SADAR"
+    },
+    {
+        "value": "596",
+        "text": "SAIDPUR"
+    },
+    {
+        "value": "597",
+        "text": "ATWARI"
+    },
+    {
+        "value": "598",
+        "text": "BODA"
+    },
+    {
+        "value": "599",
+        "text": "DEBIGANJ"
+    },
+    {
+        "value": "600",
+        "text": "PANCHAGARH SADAR"
+    },
+    {
+        "value": "601",
+        "text": "TETULIA"
+    },
+    {
+        "value": "602",
+        "text": "BADARGANJ"
+    },
+    {
+        "value": "603",
+        "text": "GANGACHARA"
+    },
+    {
+        "value": "604",
+        "text": "KAUNIA"
+    },
+    {
+        "value": "605",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "606",
+        "text": "MITHA PUKUR"
+    },
+    {
+        "value": "607",
+        "text": "PIRGACHHA"
+    },
+    {
+        "value": "608",
+        "text": "PIRGANJ"
+    },
+    {
+        "value": "609",
+        "text": "RANGPUR SADAR"
+    },
+    {
+        "value": "610",
+        "text": "TARAGANJ"
+    },
+    {
+        "value": "611",
+        "text": "BALIADANGI"
+    },
+    {
+        "value": "612",
+        "text": "HARIPUR"
+    },
+    {
+        "value": "613",
+        "text": "PIRGANJ"
+    },
+    {
+        "value": "614",
+        "text": "RANISANKAIL"
+    },
+    {
+        "value": "615",
+        "text": "RUHIA"
+    },
+    {
+        "value": "616",
+        "text": "THAKURGAON SADAR"
+    },
+    {
+        "value": "617",
+        "text": "BAKSIGANJ"
+    },
+    {
+        "value": "618",
+        "text": "DEWANGANJ"
+    },
+    {
+        "value": "619",
+        "text": "ISLAMPUR"
+    },
+    {
+        "value": "620",
+        "text": "JAMALPUR SADAR"
+    },
+    {
+        "value": "621",
+        "text": "MADARGANJ"
+    },
+    {
+        "value": "622",
+        "text": "MELANDAHA"
+    },
+    {
+        "value": "623",
+        "text": "RIVER THANA BAHADURABAD"
+    },
+    {
+        "value": "627",
+        "text": "GAFFARGAON"
+    },
+    {
+        "value": "624",
+        "text": "SARISHABARI"
+    },
+    {
+        "value": "625",
+        "text": "BHALUKA"
+    },
+    {
+        "value": "626",
+        "text": "DHOBAURA"
+    },
+    {
+        "value": "628",
+        "text": "GOURIPUR"
+    },
+    {
+        "value": "629",
+        "text": "HALUAGHAT"
+    },
+    {
+        "value": "630",
+        "text": "ISHWARGANJ"
+    },
+    {
+        "value": "631",
+        "text": "KOTWALI"
+    },
+    {
+        "value": "632",
+        "text": "MUKTAGACHHA"
+    },
+    {
+        "value": "633",
+        "text": "MYMENSINGH SADAR"
+    },
+    {
+        "value": "634",
+        "text": "NANDAIL"
+    },
+    {
+        "value": "635",
+        "text": "PAGLA"
+    },
+    {
+        "value": "636",
+        "text": "PHULBARIA"
+    },
+    {
+        "value": "637",
+        "text": "PHULPUR"
+    },
+    {
+        "value": "638",
+        "text": "TARAKANDA"
+    },
+    {
+        "value": "639",
+        "text": "TRISHAL"
+    },
+    {
+        "value": "640",
+        "text": "ATPARA"
+    },
+    {
+        "value": "641",
+        "text": "BARHATTA"
+    },
+    {
+        "value": "642",
+        "text": "DURGAPUR"
+    },
+    {
+        "value": "643",
+        "text": "KALMAKANDA"
+    },
+    {
+        "value": "644",
+        "text": "KENDUA"
+    },
+    {
+        "value": "645",
+        "text": "KHALIAJURI"
+    },
+    {
+        "value": "646",
+        "text": "MADAN"
+    },
+    {
+        "value": "647",
+        "text": "MOHANGANJ"
+    },
+    {
+        "value": "648",
+        "text": "NETROKONA SADAR"
+    },
+    {
+        "value": "649",
+        "text": "PURBADHALA"
+    },
+    {
+        "value": "650",
+        "text": "JHENAIGATI"
+    },
+    {
+        "value": "651",
+        "text": "NAKLA"
+    },
+    {
+        "value": "652",
+        "text": "NALITABARI"
+    },
+    {
+        "value": "653",
+        "text": "SHERPUR SADAR"
+    },
+    {
+        "value": "654",
+        "text": "SREEBARDI"
+    }
+]

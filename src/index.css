@@ -1,0 +1,23 @@
+/* src/index.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body {
+    font-family: 'Noto Serif', serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f9fafa;
+}
+
+#root{
+margin: 0;
+padding: 0;
+}
+.App{
+    margin: 0;
+    padding: 0;
+}
+.error{
+    color: red;
+    font-size: small;
+}
